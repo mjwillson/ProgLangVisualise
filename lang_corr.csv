@@ -1,0 +1,5216 @@
+correlation,from_lang,to_lang
+79.7,ASP,JavaScript
+62.8,ASP,C#
+59.3,ASP,Shell
+39.7,ASP,Python
+35.0,ASP,Perl
+34.2,ASP,C
+32.9,ASP,PHP
+32.1,ASP,Ruby
+29.7,ASP,C++
+23.5,ASP,Objective-C
+21.2,ASP,Java
+20.7,ASP,VimL
+19.6,ASP,Assembly
+16.0,ASP,SuperCollider
+12.4,ASP,Visual Basic
+7.5,ASP,CoffeeScript
+7.3,ASP,Rust
+6.7,ASP,ColdFusion
+6.2,ASP,Emacs Lisp
+5.4,ASP,ActionScript
+5.2,ASP,D
+3.0,ASP,F#
+2.9,ASP,Lua
+2.8,ASP,Haskell
+2.8,ASP,Boo
+2.6,ASP,Prolog
+2.6,ASP,R
+2.6,ASP,Scheme
+2.5,ASP,Delphi
+2.3,ASP,Tcl
+2.2,ASP,Scala
+2.2,ASP,Erlang
+2.1,ASP,Clojure
+2.1,ASP,Groovy
+1.9,ASP,OCaml
+1.9,ASP,Puppet
+1.9,ASP,Common Lisp
+1.8,ASP,FORTRAN
+1.4,ASP,Smalltalk
+1.1,ASP,Modelica
+1.1,ASP,HaXe
+1.0,ASP,VHDL
+1.0,ASP,Objective-J
+1.0,ASP,Matlab
+1.0,ASP,Ada
+0.9,ASP,Vala
+0.8,ASP,Go
+0.8,ASP,Verilog
+0.7,ASP,Eiffel
+0.6,ASP,Nemerle
+0.5,ASP,XQuery
+0.5,ASP,Nu
+0.4,ASP,Racket
+0.4,ASP,AutoHotkey
+0.3,ASP,Factor
+0.3,ASP,Dylan
+0.3,ASP,Io
+0.3,ASP,Standard ML
+0.3,ASP,Rebol
+0.2,ASP,Gosu
+0.2,ASP,Ioke
+0.2,ASP,Arduino
+0.2,ASP,Turing
+0.2,ASP,ooc
+0.1,ASP,Pure Data
+0.1,ASP,Parrot
+0.1,ASP,Self
+0.1,ASP,Nimrod
+0.1,ASP,Mirah
+80.4,ActionScript,JavaScript
+55.9,ActionScript,Shell
+45.9,ActionScript,PHP
+39.8,ActionScript,Python
+39.5,ActionScript,Ruby
+34.0,ActionScript,Java
+31.9,ActionScript,C
+25.8,ActionScript,Perl
+24.8,ActionScript,C++
+19.3,ActionScript,Objective-C
+16.0,ActionScript,C#
+10.3,ActionScript,VimL
+9.6,ActionScript,Emacs Lisp
+9.5,ActionScript,Assembly
+9.1,ActionScript,CoffeeScript
+7.8,ActionScript,D
+7.1,ActionScript,Visual Basic
+6.4,ActionScript,ASP
+6.0,ActionScript,Delphi
+5.7,ActionScript,Tcl
+5.6,ActionScript,Prolog
+5.1,ActionScript,Rust
+4.8,ActionScript,Scala
+4.6,ActionScript,Lua
+4.3,ActionScript,Erlang
+4.1,ActionScript,Ada
+4.1,ActionScript,Haskell
+3.8,ActionScript,Groovy
+3.5,ActionScript,Smalltalk
+3.4,ActionScript,Verilog
+3.3,ActionScript,Scheme
+3.2,ActionScript,R
+2.8,ActionScript,Clojure
+2.7,ActionScript,HaXe
+2.7,ActionScript,ColdFusion
+2.6,ActionScript,OCaml
+2.2,ActionScript,Common Lisp
+1.9,ActionScript,FORTRAN
+1.7,ActionScript,Go
+1.3,ActionScript,Matlab
+1.2,ActionScript,XQuery
+1.1,ActionScript,Modelica
+1.1,ActionScript,Boo
+1.1,ActionScript,Objective-J
+1.0,ActionScript,F#
+0.8,ActionScript,Vala
+0.8,ActionScript,VHDL
+0.7,ActionScript,SuperCollider
+0.7,ActionScript,Racket
+0.6,ActionScript,Eiffel
+0.6,ActionScript,Io
+0.5,ActionScript,Gosu
+0.5,ActionScript,Puppet
+0.4,ActionScript,Factor
+0.4,ActionScript,Rebol
+0.4,ActionScript,Nemerle
+0.4,ActionScript,Nu
+0.3,ActionScript,Ioke
+0.3,ActionScript,Arduino
+0.3,ActionScript,AutoHotkey
+0.3,ActionScript,Dylan
+0.3,ActionScript,ooc
+0.2,ActionScript,Standard ML
+0.2,ActionScript,Pure Data
+0.2,ActionScript,Turing
+0.1,ActionScript,Parrot
+0.1,ActionScript,Mirah
+0.1,ActionScript,Nimrod
+0.1,ActionScript,Arc
+0.1,ActionScript,Fancy
+0.1,ActionScript,Self
+95.5,Ada,C
+95.5,Ada,Shell
+93.3,Ada,C++
+86.4,Ada,Python
+81.6,Ada,Perl
+80.2,Ada,Assembly
+77.9,Ada,JavaScript
+77.5,Ada,Java
+75.5,Ada,Delphi
+74.5,Ada,C#
+73.9,Ada,Objective-C
+59.0,Ada,Ruby
+53.6,Ada,D
+52.4,Ada,Emacs Lisp
+46.2,Ada,Tcl
+44.9,Ada,PHP
+42.1,Ada,Visual Basic
+41.3,Ada,Prolog
+40.6,Ada,Rust
+33.7,Ada,ActionScript
+30.4,Ada,Lua
+27.5,Ada,Verilog
+21.4,Ada,VimL
+20.4,Ada,R
+19.6,Ada,FORTRAN
+18.8,Ada,Common Lisp
+18.5,Ada,Haskell
+17.3,Ada,Scheme
+16.8,Ada,OCaml
+14.8,Ada,Scala
+13.6,Ada,Go
+13.3,Ada,Smalltalk
+12.2,Ada,Clojure
+12.0,Ada,HaXe
+10.1,Ada,Erlang
+9.8,Ada,F#
+9.4,Ada,Racket
+9.2,Ada,ASP
+8.9,Ada,Matlab
+8.3,Ada,SuperCollider
+7.9,Ada,CoffeeScript
+6.7,Ada,Eiffel
+5.9,Ada,Objective-J
+5.3,Ada,Groovy
+4.1,Ada,VHDL
+4.1,Ada,Boo
+4.1,Ada,Vala
+3.6,Ada,Nemerle
+2.8,Ada,Pure Data
+2.6,Ada,Factor
+2.5,Ada,ColdFusion
+2.4,Ada,Dylan
+2.3,Ada,Rebol
+2.2,Ada,XQuery
+2.0,Ada,Turing
+1.8,Ada,Self
+1.7,Ada,Modelica
+1.6,Ada,Standard ML
+1.1,Ada,Gosu
+1.1,Ada,Io
+1.0,Ada,Puppet
+0.9,Ada,Arc
+0.8,Ada,Ioke
+0.8,Ada,Parrot
+0.6,Ada,AutoHotkey
+0.6,Ada,Arduino
+0.4,Ada,Nu
+0.3,Ada,Fancy
+0.3,Ada,Nimrod
+0.3,Ada,ooc
+0.1,Ada,Fantom
+0.1,Ada,Mirah
+0.1,Ada,Opa
+80.8,Arc,Shell
+67.3,Arc,C
+64.4,Arc,Python
+64.4,Arc,JavaScript
+58.7,Arc,Perl
+57.7,Arc,C++
+55.8,Arc,Scheme
+53.8,Arc,Ruby
+43.3,Arc,Java
+41.3,Arc,Emacs Lisp
+35.6,Arc,VimL
+35.6,Arc,PHP
+26.0,Arc,Objective-C
+23.1,Arc,C#
+23.1,Arc,Common Lisp
+22.1,Arc,Tcl
+22.1,Arc,Assembly
+22.1,Arc,Haskell
+20.2,Arc,Clojure
+18.3,Arc,D
+17.3,Arc,Lua
+16.3,Arc,Prolog
+16.3,Arc,OCaml
+15.4,Arc,CoffeeScript
+14.4,Arc,Scala
+14.4,Arc,R
+13.5,Arc,Erlang
+13.5,Arc,FORTRAN
+12.5,Arc,Rust
+12.5,Arc,Go
+10.6,Arc,Matlab
+10.6,Arc,Delphi
+10.6,Arc,Smalltalk
+10.6,Arc,Io
+8.7,Arc,Racket
+8.7,Arc,Ada
+8.7,Arc,Visual Basic
+7.7,Arc,Groovy
+7.7,Arc,Nemerle
+5.8,Arc,SuperCollider
+5.8,Arc,ActionScript
+4.8,Arc,Eiffel
+4.8,Arc,HaXe
+4.8,Arc,F#
+3.8,Arc,Turing
+3.8,Arc,Standard ML
+3.8,Arc,ASP
+3.8,Arc,Gosu
+3.8,Arc,Factor
+3.8,Arc,Pure Data
+2.9,Arc,Verilog
+2.9,Arc,Objective-J
+2.9,Arc,Modelica
+2.9,Arc,Puppet
+2.9,Arc,Vala
+2.9,Arc,Nu
+1.9,Arc,Boo
+1.9,Arc,ColdFusion
+1.9,Arc,Mirah
+1.9,Arc,VHDL
+1.9,Arc,Rebol
+1.0,Arc,Dylan
+1.0,Arc,Fancy
+1.0,Arc,Parrot
+1.0,Arc,Ioke
+1.0,Arc,Fantom
+1.0,Arc,XQuery
+1.0,Arc,Opa
+1.0,Arc,Self
+1.0,Arc,ooc
+64.1,Arduino,C++
+60.4,Arduino,C
+60.3,Arduino,Java
+46.1,Arduino,Shell
+46.0,Arduino,JavaScript
+42.9,Arduino,Python
+28.5,Arduino,Ruby
+28.0,Arduino,PHP
+25.3,Arduino,Perl
+19.1,Arduino,Objective-C
+14.5,Arduino,VimL
+13.3,Arduino,Assembly
+12.4,Arduino,CoffeeScript
+10.8,Arduino,Prolog
+9.8,Arduino,C#
+9.1,Arduino,Emacs Lisp
+8.6,Arduino,Rust
+7.4,Arduino,Scala
+7.3,Arduino,Scheme
+7.0,Arduino,R
+6.9,Arduino,Matlab
+6.7,Arduino,SuperCollider
+6.7,Arduino,D
+6.4,Arduino,Groovy
+6.1,Arduino,Delphi
+5.7,Arduino,OCaml
+5.3,Arduino,XQuery
+5.3,Arduino,Racket
+5.1,Arduino,Standard ML
+5.1,Arduino,Gosu
+5.1,Arduino,Nu
+5.0,Arduino,Nemerle
+5.0,Arduino,Parrot
+4.8,Arduino,Turing
+4.8,Arduino,Ioke
+4.8,Arduino,Rebol
+4.8,Arduino,AutoHotkey
+4.2,Arduino,Tcl
+3.8,Arduino,Lua
+3.6,Arduino,ActionScript
+3.5,Arduino,Erlang
+3.5,Arduino,Haskell
+3.2,Arduino,Nimrod
+2.9,Arduino,Common Lisp
+2.8,Arduino,ASP
+2.6,Arduino,Visual Basic
+2.2,Arduino,Opa
+1.8,Arduino,FORTRAN
+1.5,Arduino,Go
+1.3,Arduino,Clojure
+1.3,Arduino,Verilog
+1.2,Arduino,VHDL
+1.0,Arduino,Modelica
+1.0,Arduino,Pure Data
+1.0,Arduino,Smalltalk
+0.9,Arduino,F#
+0.9,Arduino,Ada
+0.6,Arduino,Boo
+0.6,Arduino,Vala
+0.6,Arduino,Eiffel
+0.6,Arduino,Io
+0.4,Arduino,ColdFusion
+0.4,Arduino,HaXe
+0.3,Arduino,Factor
+0.1,Arduino,Objective-J
+0.1,Arduino,Puppet
+0.1,Arduino,Fantom
+0.1,Arduino,ooc
+0.1,Arduino,Mirah
+0.1,Arduino,Self
+0.1,Arduino,Dylan
+0.1,Arduino,Fancy
+96.4,Assembly,C
+89.6,Assembly,Shell
+77.4,Assembly,C++
+74.9,Assembly,Python
+67.4,Assembly,Perl
+52.5,Assembly,JavaScript
+47.3,Assembly,Objective-C
+43.3,Assembly,Java
+32.0,Assembly,Ruby
+31.7,Assembly,VimL
+26.4,Assembly,Rust
+26.4,Assembly,PHP
+24.8,Assembly,Emacs Lisp
+23.7,Assembly,C#
+21.7,Assembly,D
+20.5,Assembly,ASP
+18.9,Assembly,SuperCollider
+17.0,Assembly,Prolog
+14.7,Assembly,Tcl
+13.3,Assembly,Delphi
+11.6,Assembly,Visual Basic
+11.5,Assembly,Lua
+10.5,Assembly,Scheme
+10.1,Assembly,R
+8.7,Assembly,Ada
+8.4,Assembly,ActionScript
+7.0,Assembly,Haskell
+6.8,Assembly,FORTRAN
+6.8,Assembly,Verilog
+6.0,Assembly,CoffeeScript
+5.5,Assembly,Smalltalk
+5.5,Assembly,OCaml
+5.4,Assembly,Matlab
+5.1,Assembly,Erlang
+4.5,Assembly,Common Lisp
+4.1,Assembly,Scala
+3.1,Assembly,Groovy
+2.8,Assembly,VHDL
+2.7,Assembly,Clojure
+2.6,Assembly,HaXe
+2.6,Assembly,Go
+2.4,Assembly,Objective-J
+2.0,Assembly,F#
+1.9,Assembly,Nemerle
+1.8,Assembly,Vala
+1.7,Assembly,Racket
+1.6,Assembly,Standard ML
+1.6,Assembly,Boo
+1.6,Assembly,Eiffel
+1.3,Assembly,Nu
+1.3,Assembly,Puppet
+1.2,Assembly,Rebol
+1.2,Assembly,XQuery
+1.2,Assembly,Turing
+1.0,Assembly,Arduino
+1.0,Assembly,Parrot
+0.9,Assembly,Modelica
+0.9,Assembly,Gosu
+0.9,Assembly,AutoHotkey
+0.8,Assembly,Io
+0.8,Assembly,ColdFusion
+0.8,Assembly,Ioke
+0.7,Assembly,Factor
+0.5,Assembly,Pure Data
+0.4,Assembly,Dylan
+0.3,Assembly,Nimrod
+0.3,Assembly,Self
+0.3,Assembly,ooc
+0.3,Assembly,Mirah
+0.3,Assembly,Arc
+0.2,Assembly,Opa
+0.1,Assembly,Fancy
+72.1,AutoHotkey,Shell
+68.4,AutoHotkey,JavaScript
+55.9,AutoHotkey,Python
+52.6,AutoHotkey,Ruby
+50.6,AutoHotkey,C
+49.0,AutoHotkey,VimL
+44.1,AutoHotkey,C++
+43.7,AutoHotkey,Perl
+42.5,AutoHotkey,PHP
+33.6,AutoHotkey,Emacs Lisp
+32.0,AutoHotkey,Objective-C
+31.6,AutoHotkey,Assembly
+30.4,AutoHotkey,C#
+29.6,AutoHotkey,Rust
+28.3,AutoHotkey,CoffeeScript
+26.3,AutoHotkey,Java
+26.3,AutoHotkey,Scala
+26.3,AutoHotkey,Prolog
+25.9,AutoHotkey,R
+25.5,AutoHotkey,Scheme
+25.5,AutoHotkey,OCaml
+25.5,AutoHotkey,Delphi
+23.9,AutoHotkey,Ioke
+23.5,AutoHotkey,XQuery
+23.1,AutoHotkey,Groovy
+22.3,AutoHotkey,Nemerle
+22.3,AutoHotkey,Racket
+21.9,AutoHotkey,Nu
+21.1,AutoHotkey,Rebol
+19.8,AutoHotkey,Matlab
+19.4,AutoHotkey,Visual Basic
+19.0,AutoHotkey,Gosu
+17.8,AutoHotkey,SuperCollider
+17.8,AutoHotkey,Parrot
+17.0,AutoHotkey,Standard ML
+15.8,AutoHotkey,ASP
+15.8,AutoHotkey,Lua
+13.4,AutoHotkey,Arduino
+13.0,AutoHotkey,Turing
+12.6,AutoHotkey,Haskell
+11.7,AutoHotkey,Nimrod
+10.9,AutoHotkey,Erlang
+10.9,AutoHotkey,D
+10.9,AutoHotkey,Tcl
+10.5,AutoHotkey,FORTRAN
+10.1,AutoHotkey,Common Lisp
+9.7,AutoHotkey,ActionScript
+8.9,AutoHotkey,Clojure
+6.9,AutoHotkey,HaXe
+6.9,AutoHotkey,Boo
+6.9,AutoHotkey,ColdFusion
+6.9,AutoHotkey,Go
+6.1,AutoHotkey,Objective-J
+6.1,AutoHotkey,Opa
+5.3,AutoHotkey,Vala
+4.9,AutoHotkey,VHDL
+4.0,AutoHotkey,Modelica
+3.6,AutoHotkey,Factor
+3.6,AutoHotkey,Puppet
+3.6,AutoHotkey,ooc
+2.8,AutoHotkey,Smalltalk
+2.4,AutoHotkey,Dylan
+2.4,AutoHotkey,Ada
+2.0,AutoHotkey,F#
+0.8,AutoHotkey,Verilog
+0.8,AutoHotkey,Self
+0.8,AutoHotkey,Fancy
+0.8,AutoHotkey,Eiffel
+0.4,AutoHotkey,Io
+0.4,AutoHotkey,Fantom
+96.5,Boo,C#
+83.0,Boo,JavaScript
+82.7,Boo,Shell
+67.3,Boo,Ruby
+66.6,Boo,Python
+61.7,Boo,C++
+59.3,Boo,C
+58.4,Boo,ASP
+52.7,Boo,Perl
+45.6,Boo,Visual Basic
+44.0,Boo,Java
+40.3,Boo,PHP
+32.3,Boo,Lua
+31.6,Boo,Assembly
+30.3,Boo,D
+30.1,Boo,Delphi
+29.6,Boo,OCaml
+29.4,Boo,Haskell
+29.4,Boo,Objective-C
+29.2,Boo,Erlang
+28.5,Boo,Common Lisp
+28.5,Boo,Scheme
+27.7,Boo,FORTRAN
+26.3,Boo,VimL
+24.3,Boo,R
+23.9,Boo,Scala
+19.9,Boo,ColdFusion
+19.5,Boo,Groovy
+19.5,Boo,Emacs Lisp
+19.0,Boo,ActionScript
+18.1,Boo,Clojure
+17.5,Boo,CoffeeScript
+17.0,Boo,Vala
+17.0,Boo,F#
+14.6,Boo,Nu
+14.2,Boo,VHDL
+13.9,Boo,HaXe
+13.7,Boo,Smalltalk
+12.4,Boo,Objective-J
+12.4,Boo,Tcl
+10.2,Boo,Prolog
+9.5,Boo,Rust
+8.8,Boo,Ada
+7.7,Boo,Go
+7.3,Boo,Eiffel
+6.4,Boo,Factor
+5.8,Boo,Racket
+5.1,Boo,Rebol
+5.1,Boo,Dylan
+4.9,Boo,XQuery
+4.4,Boo,Matlab
+4.2,Boo,Ioke
+3.8,Boo,ooc
+3.8,Boo,AutoHotkey
+3.5,Boo,Nemerle
+3.5,Boo,SuperCollider
+3.3,Boo,Puppet
+2.2,Boo,Verilog
+1.8,Boo,Nimrod
+1.8,Boo,Modelica
+1.3,Boo,Standard ML
+1.1,Boo,Gosu
+0.9,Boo,Parrot
+0.9,Boo,Arduino
+0.9,Boo,Turing
+0.4,Boo,Fancy
+0.4,Boo,Io
+0.4,Boo,Self
+0.4,Boo,Arc
+0.2,Boo,Opa
+0.2,Boo,Fantom
+0.2,Boo,Pure Data
+0.2,Boo,Mirah
+54.9,C#,JavaScript
+47.5,C#,Shell
+35.6,C#,C
+32.5,C#,Python
+31.6,C#,Ruby
+30.8,C#,C++
+27.5,C#,ASP
+27.2,C#,Java
+22.1,C#,PHP
+22.0,C#,Perl
+15.3,C#,Objective-C
+9.9,C#,Visual Basic
+9.9,C#,Assembly
+9.3,C#,VimL
+8.4,C#,Rust
+8.1,C#,Emacs Lisp
+7.7,C#,D
+6.3,C#,CoffeeScript
+6.0,C#,Delphi
+5.9,C#,ActionScript
+5.8,C#,Lua
+5.1,C#,R
+5.1,C#,Prolog
+4.4,C#,Tcl
+4.4,C#,Haskell
+3.9,C#,Scala
+3.6,C#,Erlang
+3.4,C#,Ada
+3.2,C#,Clojure
+3.2,C#,F#
+3.0,C#,Scheme
+3.0,C#,OCaml
+2.8,C#,Groovy
+2.7,C#,Common Lisp
+2.2,C#,Go
+2.1,C#,FORTRAN
+2.0,C#,Boo
+2.0,C#,Smalltalk
+1.8,C#,Verilog
+1.5,C#,Matlab
+1.5,C#,SuperCollider
+1.0,C#,HaXe
+1.0,C#,Puppet
+1.0,C#,ColdFusion
+0.8,C#,Vala
+0.8,C#,Racket
+0.8,C#,Objective-J
+0.7,C#,VHDL
+0.5,C#,Eiffel
+0.5,C#,Modelica
+0.5,C#,Nemerle
+0.4,C#,XQuery
+0.4,C#,Nu
+0.3,C#,AutoHotkey
+0.3,C#,Io
+0.3,C#,Arduino
+0.3,C#,Standard ML
+0.3,C#,Turing
+0.2,C#,Gosu
+0.2,C#,Factor
+0.2,C#,Rebol
+0.2,C#,Parrot
+0.2,C#,Pure Data
+0.2,C#,Ioke
+0.2,C#,ooc
+0.1,C#,Self
+0.1,C#,Arc
+0.1,C#,Dylan
+0.1,C#,Mirah
+0.1,C#,Nimrod
+83.0,C++,C
+65.2,C++,Shell
+52.3,C++,Python
+44.3,C++,JavaScript
+33.3,C++,Java
+33.1,C++,Perl
+28.2,C++,Ruby
+25.3,C++,Objective-C
+22.3,C++,PHP
+15.7,C++,Assembly
+15.1,C++,VimL
+14.9,C++,C#
+11.3,C++,Rust
+11.2,C++,Prolog
+10.9,C++,Emacs Lisp
+9.5,C++,D
+7.3,C++,Lua
+6.3,C++,ASP
+5.9,C++,CoffeeScript
+5.6,C++,R
+5.2,C++,Visual Basic
+5.1,C++,Haskell
+4.9,C++,Tcl
+4.5,C++,Scheme
+4.4,C++,ActionScript
+4.3,C++,SuperCollider
+3.8,C++,Delphi
+3.7,C++,Scala
+3.6,C++,Erlang
+3.3,C++,Matlab
+3.1,C++,FORTRAN
+2.9,C++,Common Lisp
+2.6,C++,Clojure
+2.4,C++,OCaml
+2.1,C++,Go
+2.0,C++,Ada
+1.9,C++,Groovy
+1.8,C++,Smalltalk
+1.7,C++,Verilog
+1.4,C++,F#
+1.0,C++,Arduino
+0.9,C++,HaXe
+0.8,C++,VHDL
+0.7,C++,Objective-J
+0.7,C++,Racket
+0.7,C++,Vala
+0.6,C++,Boo
+0.6,C++,Modelica
+0.5,C++,ColdFusion
+0.5,C++,Eiffel
+0.5,C++,Nemerle
+0.5,C++,Puppet
+0.4,C++,Io
+0.4,C++,Pure Data
+0.4,C++,Standard ML
+0.4,C++,XQuery
+0.4,C++,Nu
+0.3,C++,Turing
+0.3,C++,Gosu
+0.3,C++,Rebol
+0.2,C++,Parrot
+0.2,C++,AutoHotkey
+0.2,C++,Self
+0.2,C++,Ioke
+0.2,C++,Factor
+0.2,C++,ooc
+0.1,C++,Arc
+0.1,C++,Mirah
+0.1,C++,Nimrod
+0.1,C++,Dylan
+63.5,C,Shell
+54.6,C,C++
+48.7,C,Python
+45.5,C,JavaScript
+31.8,C,Ruby
+29.6,C,Perl
+29.4,C,Java
+27.6,C,Objective-C
+22.0,C,PHP
+15.2,C,VimL
+12.9,C,Assembly
+11.3,C,C#
+9.9,C,Emacs Lisp
+8.0,C,Rust
+7.5,C,D
+6.8,C,Prolog
+6.2,C,CoffeeScript
+6.0,C,Lua
+4.8,C,Haskell
+4.8,C,ASP
+4.2,C,R
+4.1,C,Visual Basic
+4.0,C,Tcl
+3.9,C,Scheme
+3.7,C,ActionScript
+3.3,C,Erlang
+3.3,C,Scala
+2.9,C,SuperCollider
+2.7,C,Delphi
+2.4,C,Common Lisp
+2.4,C,Matlab
+2.4,C,Clojure
+2.4,C,FORTRAN
+2.0,C,OCaml
+1.9,C,Groovy
+1.8,C,Go
+1.4,C,Ada
+1.4,C,Smalltalk
+1.3,C,Verilog
+0.9,C,F#
+0.7,C,VHDL
+0.7,C,Modelica
+0.7,C,Objective-J
+0.6,C,HaXe
+0.6,C,Arduino
+0.6,C,Vala
+0.6,C,Puppet
+0.6,C,Racket
+0.4,C,ColdFusion
+0.4,C,Io
+0.4,C,Eiffel
+0.4,C,Boo
+0.4,C,Nemerle
+0.4,C,Standard ML
+0.4,C,Nu
+0.3,C,Pure Data
+0.3,C,XQuery
+0.3,C,Turing
+0.3,C,Parrot
+0.3,C,Gosu
+0.2,C,Rebol
+0.2,C,AutoHotkey
+0.1,C,Self
+0.1,C,Ioke
+0.1,C,Factor
+0.1,C,ooc
+0.1,C,Arc
+0.1,C,Mirah
+66.9,Clojure,Shell
+66.2,Clojure,JavaScript
+59.3,Clojure,Java
+57.5,Clojure,Ruby
+51.6,Clojure,Python
+41.6,Clojure,C
+30.2,Clojure,C++
+27.6,Clojure,Perl
+26.8,Clojure,Emacs Lisp
+26.0,Clojure,PHP
+22.9,Clojure,Scala
+21.0,Clojure,VimL
+19.5,Clojure,Objective-C
+17.9,Clojure,C#
+17.6,Clojure,Haskell
+16.7,Clojure,CoffeeScript
+15.1,Clojure,Common Lisp
+13.6,Clojure,Groovy
+13.0,Clojure,Scheme
+12.0,Clojure,Erlang
+11.6,Clojure,Lua
+7.9,Clojure,Go
+7.7,Clojure,OCaml
+7.2,Clojure,Visual Basic
+6.6,Clojure,D
+6.3,Clojure,Assembly
+5.8,Clojure,R
+5.7,Clojure,Delphi
+5.7,Clojure,ActionScript
+5.2,Clojure,ASP
+4.9,Clojure,Tcl
+4.7,Clojure,Prolog
+4.0,Clojure,FORTRAN
+3.5,Clojure,Smalltalk
+3.4,Clojure,Racket
+3.4,Clojure,HaXe
+3.2,Clojure,F#
+3.1,Clojure,Ada
+2.7,Clojure,Rust
+2.4,Clojure,Matlab
+2.4,Clojure,ColdFusion
+2.1,Clojure,Boo
+2.1,Clojure,Io
+2.1,Clojure,Objective-J
+2.0,Clojure,Ioke
+1.5,Clojure,Vala
+1.4,Clojure,VHDL
+1.1,Clojure,XQuery
+1.1,Clojure,Factor
+1.1,Clojure,Nu
+1.0,Clojure,Gosu
+0.9,Clojure,Fancy
+0.9,Clojure,Eiffel
+0.9,Clojure,Puppet
+0.8,Clojure,Rebol
+0.7,Clojure,SuperCollider
+0.6,Clojure,Nemerle
+0.6,Clojure,Dylan
+0.6,Clojure,Mirah
+0.6,Clojure,AutoHotkey
+0.6,Clojure,ooc
+0.5,Clojure,Arc
+0.5,Clojure,Verilog
+0.4,Clojure,Standard ML
+0.3,Clojure,Turing
+0.3,Clojure,Parrot
+0.2,Clojure,Arduino
+0.2,Clojure,Pure Data
+0.2,Clojure,Nimrod
+0.2,Clojure,Modelica
+0.1,Clojure,Self
+0.1,Clojure,Fantom
+0.1,Clojure,Max/MSP
+98.0,CoffeeScript,JavaScript
+87.9,CoffeeScript,Ruby
+41.6,CoffeeScript,Shell
+25.5,CoffeeScript,Python
+22.6,CoffeeScript,PHP
+22.4,CoffeeScript,C
+19.0,CoffeeScript,Java
+15.0,CoffeeScript,VimL
+14.0,CoffeeScript,C++
+12.4,CoffeeScript,Perl
+10.1,CoffeeScript,Objective-C
+7.1,CoffeeScript,C#
+5.7,CoffeeScript,Emacs Lisp
+4.4,CoffeeScript,Scala
+3.8,CoffeeScript,ActionScript
+3.7,CoffeeScript,ASP
+3.4,CoffeeScript,Clojure
+3.1,CoffeeScript,Haskell
+3.0,CoffeeScript,Scheme
+3.0,CoffeeScript,Lua
+2.9,CoffeeScript,D
+2.9,CoffeeScript,Groovy
+2.9,CoffeeScript,Assembly
+2.6,CoffeeScript,Erlang
+2.2,CoffeeScript,Prolog
+2.2,CoffeeScript,Visual Basic
+2.0,CoffeeScript,R
+1.8,CoffeeScript,Rust
+1.6,CoffeeScript,Go
+1.6,CoffeeScript,Tcl
+1.6,CoffeeScript,OCaml
+1.5,CoffeeScript,Common Lisp
+1.2,CoffeeScript,Delphi
+0.9,CoffeeScript,Matlab
+0.9,CoffeeScript,ColdFusion
+0.8,CoffeeScript,Racket
+0.7,CoffeeScript,F#
+0.6,CoffeeScript,FORTRAN
+0.6,CoffeeScript,HaXe
+0.6,CoffeeScript,Smalltalk
+0.5,CoffeeScript,Io
+0.5,CoffeeScript,Objective-J
+0.5,CoffeeScript,Puppet
+0.5,CoffeeScript,Nu
+0.5,CoffeeScript,XQuery
+0.5,CoffeeScript,Gosu
+0.4,CoffeeScript,Arduino
+0.4,CoffeeScript,Rebol
+0.4,CoffeeScript,Boo
+0.4,CoffeeScript,Modelica
+0.4,CoffeeScript,Ada
+0.4,CoffeeScript,SuperCollider
+0.4,CoffeeScript,Ioke
+0.4,CoffeeScript,Nemerle
+0.4,CoffeeScript,AutoHotkey
+0.3,CoffeeScript,Parrot
+0.3,CoffeeScript,Vala
+0.3,CoffeeScript,Standard ML
+0.2,CoffeeScript,VHDL
+0.2,CoffeeScript,Turing
+0.2,CoffeeScript,Factor
+0.2,CoffeeScript,Verilog
+0.2,CoffeeScript,Nimrod
+0.2,CoffeeScript,ooc
+0.1,CoffeeScript,Eiffel
+0.1,CoffeeScript,Pure Data
+0.1,CoffeeScript,Mirah
+0.1,CoffeeScript,Dylan
+0.1,CoffeeScript,Arc
+0.1,CoffeeScript,Opa
+89.6,ColdFusion,JavaScript
+73.8,ColdFusion,PHP
+61.1,ColdFusion,Perl
+54.8,ColdFusion,Python
+52.6,ColdFusion,Shell
+45.9,ColdFusion,ASP
+39.1,ColdFusion,Ruby
+37.9,ColdFusion,Java
+21.0,ColdFusion,C
+17.7,ColdFusion,C++
+15.3,ColdFusion,ActionScript
+15.3,ColdFusion,C#
+12.8,ColdFusion,Objective-C
+12.3,ColdFusion,CoffeeScript
+10.4,ColdFusion,Lua
+9.6,ColdFusion,VimL
+9.3,ColdFusion,OCaml
+8.7,ColdFusion,Groovy
+8.0,ColdFusion,Visual Basic
+8.0,ColdFusion,Scala
+7.5,ColdFusion,D
+7.4,ColdFusion,Haskell
+7.3,ColdFusion,Delphi
+7.2,ColdFusion,Erlang
+7.1,ColdFusion,Scheme
+6.8,ColdFusion,Common Lisp
+6.7,ColdFusion,Clojure
+6.5,ColdFusion,Boo
+6.3,ColdFusion,FORTRAN
+5.4,ColdFusion,Assembly
+5.0,ColdFusion,HaXe
+4.9,ColdFusion,R
+4.6,ColdFusion,Nu
+3.6,ColdFusion,Emacs Lisp
+3.3,ColdFusion,Smalltalk
+3.1,ColdFusion,Vala
+3.1,ColdFusion,Prolog
+2.9,ColdFusion,VHDL
+2.6,ColdFusion,Rust
+2.3,ColdFusion,Objective-J
+2.3,ColdFusion,Go
+2.2,ColdFusion,Tcl
+1.8,ColdFusion,XQuery
+1.7,ColdFusion,Modelica
+1.7,ColdFusion,Ada
+1.3,ColdFusion,Ioke
+1.2,ColdFusion,AutoHotkey
+1.2,ColdFusion,ooc
+1.2,ColdFusion,Nemerle
+1.1,ColdFusion,Racket
+1.0,ColdFusion,Factor
+0.9,ColdFusion,Verilog
+0.9,ColdFusion,Rebol
+0.7,ColdFusion,Matlab
+0.7,ColdFusion,Puppet
+0.7,ColdFusion,Dylan
+0.7,ColdFusion,Eiffel
+0.5,ColdFusion,Nimrod
+0.5,ColdFusion,Gosu
+0.4,ColdFusion,F#
+0.4,ColdFusion,Io
+0.3,ColdFusion,Standard ML
+0.2,ColdFusion,Arduino
+0.2,ColdFusion,SuperCollider
+0.1,ColdFusion,Self
+0.1,ColdFusion,Fancy
+0.1,ColdFusion,Mirah
+0.1,ColdFusion,Pure Data
+0.1,ColdFusion,Arc
+0.1,ColdFusion,Parrot
+0.1,ColdFusion,Turing
+0.1,ColdFusion,Fantom
+75.2,Common Lisp,Shell
+67.8,Common Lisp,C
+62.7,Common Lisp,Python
+58.7,Common Lisp,JavaScript
+52.0,Common Lisp,C++
+50.1,Common Lisp,Ruby
+48.8,Common Lisp,Java
+45.5,Common Lisp,Perl
+38.1,Common Lisp,Emacs Lisp
+35.0,Common Lisp,PHP
+28.0,Common Lisp,Scheme
+24.7,Common Lisp,Haskell
+24.0,Common Lisp,Clojure
+23.9,Common Lisp,VimL
+23.8,Common Lisp,Objective-C
+23.6,Common Lisp,C#
+21.1,Common Lisp,Lua
+16.7,Common Lisp,Assembly
+16.5,Common Lisp,Scala
+15.5,Common Lisp,Erlang
+14.6,Common Lisp,D
+13.4,Common Lisp,OCaml
+11.5,Common Lisp,CoffeeScript
+11.4,Common Lisp,Visual Basic
+11.3,Common Lisp,R
+11.1,Common Lisp,Go
+11.1,Common Lisp,Delphi
+10.7,Common Lisp,Tcl
+10.6,Common Lisp,FORTRAN
+9.7,Common Lisp,Prolog
+7.5,Common Lisp,Ada
+7.4,Common Lisp,Rust
+7.2,Common Lisp,ActionScript
+7.2,Common Lisp,ASP
+6.5,Common Lisp,Racket
+6.5,Common Lisp,Smalltalk
+6.2,Common Lisp,Groovy
+5.3,Common Lisp,HaXe
+5.3,Common Lisp,Matlab
+5.3,Common Lisp,Boo
+5.2,Common Lisp,F#
+4.5,Common Lisp,Vala
+3.9,Common Lisp,VHDL
+3.8,Common Lisp,ColdFusion
+3.1,Common Lisp,Nu
+2.9,Common Lisp,Objective-J
+2.7,Common Lisp,Eiffel
+2.5,Common Lisp,SuperCollider
+2.1,Common Lisp,Verilog
+1.9,Common Lisp,Rebol
+1.6,Common Lisp,Factor
+1.6,Common Lisp,Standard ML
+1.4,Common Lisp,ooc
+1.4,Common Lisp,XQuery
+1.3,Common Lisp,Dylan
+1.3,Common Lisp,Io
+1.3,Common Lisp,Nemerle
+1.0,Common Lisp,AutoHotkey
+1.0,Common Lisp,Parrot
+1.0,Common Lisp,Arc
+0.9,Common Lisp,Ioke
+0.8,Common Lisp,Puppet
+0.8,Common Lisp,Arduino
+0.6,Common Lisp,Self
+0.6,Common Lisp,Pure Data
+0.6,Common Lisp,Gosu
+0.5,Common Lisp,Modelica
+0.4,Common Lisp,Turing
+0.4,Common Lisp,Nimrod
+0.2,Common Lisp,Fancy
+0.2,Common Lisp,Mirah
+87.8,D,C
+86.3,D,Shell
+73.3,D,C++
+72.5,D,Python
+63.2,D,JavaScript
+59.4,D,Perl
+43.6,D,Ruby
+41.8,D,PHP
+41.3,D,Java
+34.0,D,Assembly
+33.0,D,Objective-C
+28.6,D,C#
+23.1,D,Emacs Lisp
+21.4,D,R
+20.6,D,Rust
+18.8,D,VimL
+15.2,D,Prolog
+13.3,D,Visual Basic
+13.2,D,Tcl
+13.2,D,Delphi
+12.5,D,Lua
+10.8,D,ActionScript
+10.7,D,Scheme
+9.7,D,CoffeeScript
+9.1,D,Ada
+8.5,D,ASP
+7.6,D,Haskell
+7.1,D,OCaml
+7.0,D,FORTRAN
+6.3,D,Erlang
+6.2,D,Common Lisp
+5.9,D,Verilog
+5.7,D,Scala
+5.2,D,SuperCollider
+4.5,D,Matlab
+4.4,D,Clojure
+4.2,D,Go
+3.5,D,Groovy
+3.5,D,Smalltalk
+2.8,D,Vala
+2.4,D,VHDL
+2.4,D,Boo
+2.2,D,HaXe
+2.2,D,F#
+2.0,D,Objective-J
+1.8,D,ColdFusion
+1.8,D,Nemerle
+1.7,D,Eiffel
+1.6,D,Puppet
+1.4,D,Self
+1.3,D,Modelica
+1.2,D,Nu
+1.1,D,Standard ML
+1.0,D,Racket
+1.0,D,Io
+0.9,D,Pure Data
+0.9,D,Turing
+0.8,D,XQuery
+0.8,D,Arduino
+0.7,D,Rebol
+0.7,D,Factor
+0.5,D,AutoHotkey
+0.5,D,Ioke
+0.4,D,ooc
+0.4,D,Gosu
+0.4,D,Dylan
+0.3,D,Arc
+0.3,D,Parrot
+0.2,D,Nimrod
+0.1,D,Fancy
+0.1,D,Mirah
+0.1,D,Opa
+84.7,Delphi,Shell
+83.1,Delphi,C
+76.9,Delphi,C++
+73.0,Delphi,Python
+68.9,Delphi,JavaScript
+63.2,Delphi,Java
+63.2,Delphi,Perl
+58.9,Delphi,C#
+54.9,Delphi,Assembly
+52.8,Delphi,Ruby
+51.7,Delphi,Objective-C
+49.2,Delphi,PHP
+34.9,Delphi,D
+33.8,Delphi,Ada
+33.6,Delphi,Emacs Lisp
+33.4,Delphi,Visual Basic
+30.7,Delphi,Rust
+28.9,Delphi,Prolog
+27.2,Delphi,Tcl
+22.5,Delphi,Lua
+21.9,Delphi,ActionScript
+20.6,Delphi,VimL
+16.7,Delphi,R
+16.6,Delphi,Haskell
+16.1,Delphi,Scheme
+16.0,Delphi,Erlang
+15.6,Delphi,OCaml
+15.2,Delphi,FORTRAN
+13.7,Delphi,Scala
+13.5,Delphi,Verilog
+12.5,Delphi,Groovy
+12.4,Delphi,Common Lisp
+11.0,Delphi,Smalltalk
+10.9,Delphi,ASP
+10.6,Delphi,CoffeeScript
+10.2,Delphi,Clojure
+8.6,Delphi,Go
+8.4,Delphi,Matlab
+6.7,Delphi,SuperCollider
+6.2,Delphi,Boo
+5.4,Delphi,VHDL
+5.3,Delphi,F#
+5.3,Delphi,Nu
+4.9,Delphi,Vala
+4.7,Delphi,Eiffel
+4.6,Delphi,ColdFusion
+4.4,Delphi,HaXe
+4.3,Delphi,Nemerle
+4.1,Delphi,XQuery
+4.0,Delphi,Racket
+3.9,Delphi,Objective-J
+3.4,Delphi,Rebol
+3.2,Delphi,Gosu
+3.1,Delphi,Standard ML
+2.9,Delphi,Ioke
+2.9,Delphi,AutoHotkey
+2.6,Delphi,Parrot
+2.3,Delphi,Turing
+2.0,Delphi,Factor
+1.9,Delphi,Arduino
+1.8,Delphi,Modelica
+1.5,Delphi,Nimrod
+1.3,Delphi,Puppet
+1.3,Delphi,Pure Data
+1.1,Delphi,Dylan
+1.0,Delphi,ooc
+1.0,Delphi,Self
+0.8,Delphi,Io
+0.7,Delphi,Opa
+0.5,Delphi,Arc
+0.2,Delphi,Fancy
+0.1,Delphi,Mirah
+0.1,Delphi,Fantom
+97.1,Dylan,Java
+97.1,Dylan,C
+97.1,Dylan,Common Lisp
+97.1,Dylan,Shell
+94.1,Dylan,Assembly
+94.1,Dylan,Python
+91.2,Dylan,JavaScript
+91.2,Dylan,Visual Basic
+91.2,Dylan,ASP
+85.3,Dylan,Perl
+79.4,Dylan,Scala
+76.5,Dylan,VimL
+76.5,Dylan,Ruby
+76.5,Dylan,Emacs Lisp
+76.5,Dylan,Smalltalk
+73.5,Dylan,PHP
+73.5,Dylan,Scheme
+73.5,Dylan,C++
+70.6,Dylan,Objective-C
+70.6,Dylan,Clojure
+70.6,Dylan,C#
+70.6,Dylan,Haskell
+70.6,Dylan,Lua
+67.6,Dylan,Erlang
+67.6,Dylan,Boo
+67.6,Dylan,HaXe
+67.6,Dylan,Objective-J
+67.6,Dylan,ActionScript
+67.6,Dylan,R
+67.6,Dylan,Delphi
+67.6,Dylan,OCaml
+67.6,Dylan,FORTRAN
+67.6,Dylan,Ada
+67.6,Dylan,D
+58.8,Dylan,Prolog
+58.8,Dylan,CoffeeScript
+55.9,Dylan,Rebol
+55.9,Dylan,Factor
+50.0,Dylan,Groovy
+44.1,Dylan,Tcl
+41.2,Dylan,VHDL
+41.2,Dylan,Vala
+41.2,Dylan,F#
+41.2,Dylan,Eiffel
+35.3,Dylan,Racket
+32.4,Dylan,Rust
+29.4,Dylan,Matlab
+26.5,Dylan,ColdFusion
+17.6,Dylan,XQuery
+17.6,Dylan,AutoHotkey
+17.6,Dylan,Ioke
+8.8,Dylan,Nemerle
+8.8,Dylan,Verilog
+8.8,Dylan,SuperCollider
+8.8,Dylan,Gosu
+8.8,Dylan,Standard ML
+5.9,Dylan,Puppet
+5.9,Dylan,Parrot
+5.9,Dylan,Nu
+5.9,Dylan,Fancy
+5.9,Dylan,Nimrod
+2.9,Dylan,Opa
+2.9,Dylan,Modelica
+2.9,Dylan,Go
+2.9,Dylan,Turing
+2.9,Dylan,Arduino
+2.9,Dylan,Arc
+90.5,Eiffel,C
+85.3,Eiffel,Shell
+78.1,Eiffel,C++
+72.9,Eiffel,Python
+70.9,Eiffel,Perl
+57.8,Eiffel,JavaScript
+57.5,Eiffel,Java
+49.7,Eiffel,Ruby
+49.7,Eiffel,Objective-C
+45.8,Eiffel,Assembly
+44.8,Eiffel,PHP
+43.8,Eiffel,Emacs Lisp
+38.6,Eiffel,FORTRAN
+37.3,Eiffel,C#
+34.6,Eiffel,Scheme
+33.7,Eiffel,Delphi
+32.7,Eiffel,Tcl
+32.7,Eiffel,D
+31.7,Eiffel,Haskell
+30.7,Eiffel,OCaml
+29.7,Eiffel,VimL
+29.1,Eiffel,R
+28.1,Eiffel,Visual Basic
+26.1,Eiffel,Lua
+24.5,Eiffel,Matlab
+23.5,Eiffel,Erlang
+21.9,Eiffel,Common Lisp
+21.9,Eiffel,Prolog
+21.2,Eiffel,Ada
+21.2,Eiffel,ASP
+19.9,Eiffel,Smalltalk
+19.6,Eiffel,Rust
+17.0,Eiffel,VHDL
+17.0,Eiffel,SuperCollider
+15.4,Eiffel,ActionScript
+15.4,Eiffel,Verilog
+13.7,Eiffel,F#
+13.1,Eiffel,Scala
+12.4,Eiffel,HaXe
+12.1,Eiffel,Objective-J
+12.1,Eiffel,Groovy
+11.8,Eiffel,Vala
+11.8,Eiffel,Clojure
+11.4,Eiffel,Pure Data
+10.8,Eiffel,Boo
+9.2,Eiffel,CoffeeScript
+6.5,Eiffel,Factor
+6.2,Eiffel,Go
+6.2,Eiffel,Nemerle
+5.6,Eiffel,Racket
+4.6,Eiffel,Dylan
+4.2,Eiffel,Standard ML
+4.2,Eiffel,Rebol
+3.3,Eiffel,Io
+2.9,Eiffel,ColdFusion
+1.6,Eiffel,Arc
+1.6,Eiffel,Gosu
+1.6,Eiffel,Turing
+1.6,Eiffel,Parrot
+1.6,Eiffel,Puppet
+1.3,Eiffel,Modelica
+1.3,Eiffel,Self
+1.3,Eiffel,ooc
+1.3,Eiffel,Arduino
+1.0,Eiffel,Nu
+1.0,Eiffel,XQuery
+0.7,Eiffel,AutoHotkey
+0.7,Eiffel,Ioke
+0.7,Eiffel,Opa
+0.3,Eiffel,Fantom
+0.3,Eiffel,Mirah
+0.3,Eiffel,Nimrod
+83.1,Emacs Lisp,Shell
+67.9,Emacs Lisp,Python
+67.0,Emacs Lisp,JavaScript
+64.6,Emacs Lisp,C
+56.0,Emacs Lisp,Ruby
+52.0,Emacs Lisp,Perl
+46.7,Emacs Lisp,C++
+40.6,Emacs Lisp,Java
+35.2,Emacs Lisp,VimL
+30.1,Emacs Lisp,PHP
+29.4,Emacs Lisp,Objective-C
+21.6,Emacs Lisp,Assembly
+16.7,Emacs Lisp,C#
+14.1,Emacs Lisp,Haskell
+14.0,Emacs Lisp,Scheme
+13.7,Emacs Lisp,Tcl
+12.9,Emacs Lisp,D
+11.9,Emacs Lisp,Rust
+11.8,Emacs Lisp,Prolog
+10.4,Emacs Lisp,CoffeeScript
+10.1,Emacs Lisp,Clojure
+9.7,Emacs Lisp,Lua
+9.5,Emacs Lisp,Erlang
+9.4,Emacs Lisp,Visual Basic
+9.0,Emacs Lisp,Common Lisp
+7.9,Emacs Lisp,R
+7.4,Emacs Lisp,ActionScript
+7.1,Emacs Lisp,Delphi
+6.5,Emacs Lisp,Scala
+6.0,Emacs Lisp,OCaml
+5.6,Emacs Lisp,ASP
+5.1,Emacs Lisp,FORTRAN
+4.9,Emacs Lisp,Ada
+4.8,Emacs Lisp,Smalltalk
+3.5,Emacs Lisp,Matlab
+3.5,Emacs Lisp,Go
+3.5,Emacs Lisp,Verilog
+3.4,Emacs Lisp,Groovy
+3.0,Emacs Lisp,SuperCollider
+2.5,Emacs Lisp,Objective-J
+2.2,Emacs Lisp,Puppet
+1.7,Emacs Lisp,Racket
+1.6,Emacs Lisp,F#
+1.3,Emacs Lisp,Standard ML
+1.3,Emacs Lisp,Eiffel
+1.3,Emacs Lisp,Io
+1.2,Emacs Lisp,HaXe
+1.1,Emacs Lisp,Nu
+1.1,Emacs Lisp,Rebol
+1.1,Emacs Lisp,Nemerle
+1.0,Emacs Lisp,Turing
+1.0,Emacs Lisp,Vala
+0.9,Emacs Lisp,Parrot
+0.9,Emacs Lisp,Modelica
+0.9,Emacs Lisp,XQuery
+0.8,Emacs Lisp,Boo
+0.8,Emacs Lisp,AutoHotkey
+0.8,Emacs Lisp,Gosu
+0.7,Emacs Lisp,VHDL
+0.6,Emacs Lisp,Arduino
+0.6,Emacs Lisp,Ioke
+0.5,Emacs Lisp,Factor
+0.5,Emacs Lisp,Pure Data
+0.5,Emacs Lisp,ColdFusion
+0.5,Emacs Lisp,Self
+0.4,Emacs Lisp,Arc
+0.3,Emacs Lisp,Mirah
+0.3,Emacs Lisp,Dylan
+0.2,Emacs Lisp,Nimrod
+0.2,Emacs Lisp,ooc
+0.2,Emacs Lisp,Opa
+0.1,Emacs Lisp,Fancy
+79.1,Erlang,Shell
+71.5,Erlang,JavaScript
+62.8,Erlang,Python
+62.7,Erlang,C
+58.4,Erlang,Ruby
+48.5,Erlang,Java
+46.0,Erlang,Perl
+44.3,Erlang,C++
+34.9,Erlang,PHP
+27.6,Erlang,Emacs Lisp
+26.4,Erlang,VimL
+23.5,Erlang,Objective-C
+22.5,Erlang,Haskell
+21.6,Erlang,C#
+15.9,Erlang,Scala
+13.8,Erlang,CoffeeScript
+13.2,Erlang,Tcl
+13.0,Erlang,Clojure
+13.0,Erlang,Assembly
+12.9,Erlang,Lua
+11.1,Erlang,OCaml
+10.9,Erlang,Scheme
+10.6,Erlang,Common Lisp
+10.2,Erlang,D
+9.7,Erlang,Delphi
+9.5,Erlang,ActionScript
+9.2,Erlang,Groovy
+8.6,Erlang,Go
+8.2,Erlang,Visual Basic
+7.2,Erlang,Prolog
+7.2,Erlang,R
+6.7,Erlang,Rust
+5.8,Erlang,ASP
+5.8,Erlang,Smalltalk
+5.7,Erlang,FORTRAN
+3.7,Erlang,Boo
+3.2,Erlang,F#
+2.8,Erlang,ColdFusion
+2.8,Erlang,Ada
+2.7,Erlang,HaXe
+2.7,Erlang,Vala
+2.6,Erlang,Matlab
+2.6,Erlang,VHDL
+2.5,Erlang,Racket
+2.4,Erlang,Objective-J
+2.3,Erlang,Verilog
+2.2,Erlang,Io
+2.2,Erlang,Nu
+2.0,Erlang,Eiffel
+1.3,Erlang,XQuery
+1.2,Erlang,SuperCollider
+1.1,Erlang,Turing
+1.1,Erlang,Factor
+1.1,Erlang,Puppet
+0.9,Erlang,Standard ML
+0.9,Erlang,Rebol
+0.8,Erlang,Gosu
+0.8,Erlang,ooc
+0.8,Erlang,Nemerle
+0.8,Erlang,AutoHotkey
+0.7,Erlang,Ioke
+0.7,Erlang,Arduino
+0.6,Erlang,Dylan
+0.6,Erlang,Modelica
+0.4,Erlang,Arc
+0.4,Erlang,Self
+0.3,Erlang,Nimrod
+0.3,Erlang,Parrot
+0.3,Erlang,Fancy
+0.2,Erlang,Pure Data
+0.1,Erlang,Mirah
+0.1,Erlang,Opa
+73.4,F#,Shell
+67.3,F#,JavaScript
+63.4,F#,C#
+58.5,F#,C
+57.9,F#,Python
+57.8,F#,C++
+39.6,F#,Java
+39.4,F#,Ruby
+38.9,F#,Perl
+30.8,F#,PHP
+25.8,F#,ASP
+25.4,F#,Objective-C
+20.4,F#,Visual Basic
+18.2,F#,Lua
+17.0,F#,Assembly
+16.7,F#,VimL
+16.6,F#,Haskell
+15.5,F#,Rust
+15.3,F#,Emacs Lisp
+14.4,F#,Scala
+12.0,F#,CoffeeScript
+11.6,F#,Common Lisp
+11.5,F#,Clojure
+11.4,F#,D
+10.7,F#,Delphi
+10.6,F#,Erlang
+10.5,F#,Prolog
+10.2,F#,Tcl
+9.0,F#,OCaml
+8.9,F#,Ada
+8.9,F#,Scheme
+8.2,F#,Go
+8.0,F#,HaXe
+7.5,F#,FORTRAN
+7.4,F#,ActionScript
+7.4,F#,R
+7.1,F#,Boo
+6.8,F#,Racket
+6.4,F#,Smalltalk
+5.0,F#,Matlab
+4.8,F#,Groovy
+3.9,F#,Eiffel
+3.2,F#,Vala
+2.9,F#,Objective-J
+2.7,F#,Factor
+2.6,F#,VHDL
+2.4,F#,Nemerle
+2.4,F#,Verilog
+2.2,F#,Gosu
+1.9,F#,Puppet
+1.5,F#,Io
+1.5,F#,SuperCollider
+1.4,F#,Rebol
+1.3,F#,Dylan
+1.1,F#,Standard ML
+1.0,F#,XQuery
+0.6,F#,Modelica
+0.6,F#,Parrot
+0.6,F#,Self
+0.6,F#,Arduino
+0.6,F#,ColdFusion
+0.6,F#,Nu
+0.5,F#,AutoHotkey
+0.5,F#,Arc
+0.4,F#,ooc
+0.4,F#,Turing
+0.3,F#,Mirah
+0.3,F#,Ioke
+0.2,F#,Pure Data
+0.2,F#,Fantom
+0.2,F#,Fancy
+0.2,F#,Nimrod
+0.1,F#,Opa
+88.5,FORTRAN,C
+86.3,FORTRAN,Shell
+79.3,FORTRAN,Python
+74.6,FORTRAN,C++
+58.8,FORTRAN,Perl
+48.8,FORTRAN,JavaScript
+47.8,FORTRAN,Objective-C
+45.2,FORTRAN,Java
+38.4,FORTRAN,Ruby
+33.6,FORTRAN,Assembly
+33.1,FORTRAN,PHP
+28.9,FORTRAN,Emacs Lisp
+24.7,FORTRAN,Tcl
+24.7,FORTRAN,C#
+24.3,FORTRAN,VimL
+23.3,FORTRAN,R
+22.0,FORTRAN,D
+20.7,FORTRAN,Scheme
+20.4,FORTRAN,Matlab
+18.2,FORTRAN,Lua
+18.1,FORTRAN,Delphi
+17.3,FORTRAN,OCaml
+16.3,FORTRAN,Haskell
+16.0,FORTRAN,Prolog
+14.4,FORTRAN,Rust
+14.1,FORTRAN,Common Lisp
+13.4,FORTRAN,Visual Basic
+11.1,FORTRAN,Erlang
+10.5,FORTRAN,Ada
+9.2,FORTRAN,ASP
+8.5,FORTRAN,Scala
+8.5,FORTRAN,Clojure
+8.3,FORTRAN,ActionScript
+6.9,FORTRAN,Boo
+6.7,FORTRAN,Smalltalk
+6.5,FORTRAN,VHDL
+6.5,FORTRAN,Eiffel
+6.4,FORTRAN,CoffeeScript
+6.4,FORTRAN,SuperCollider
+6.2,FORTRAN,Verilog
+6.1,FORTRAN,Vala
+6.0,FORTRAN,Groovy
+5.5,FORTRAN,Go
+5.2,FORTRAN,Objective-J
+4.8,FORTRAN,ColdFusion
+4.4,FORTRAN,F#
+4.2,FORTRAN,HaXe
+4.2,FORTRAN,Nu
+2.7,FORTRAN,Nemerle
+2.6,FORTRAN,Standard ML
+2.6,FORTRAN,Parrot
+2.2,FORTRAN,Racket
+2.1,FORTRAN,Factor
+2.1,FORTRAN,XQuery
+1.9,FORTRAN,Io
+1.8,FORTRAN,Rebol
+1.6,FORTRAN,Pure Data
+1.4,FORTRAN,Puppet
+1.4,FORTRAN,AutoHotkey
+1.3,FORTRAN,Gosu
+1.3,FORTRAN,Ioke
+1.3,FORTRAN,Dylan
+1.2,FORTRAN,ooc
+1.2,FORTRAN,Self
+1.1,FORTRAN,Turing
+0.8,FORTRAN,Arc
+0.7,FORTRAN,Modelica
+0.7,FORTRAN,Arduino
+0.6,FORTRAN,Nimrod
+0.2,FORTRAN,Mirah
+0.2,FORTRAN,Opa
+0.2,FORTRAN,Fancy
+0.1,FORTRAN,Fantom
+90.4,Factor,Shell
+87.2,Factor,C
+86.2,Factor,JavaScript
+85.1,Factor,Ruby
+78.7,Factor,C++
+73.4,Factor,Python
+69.1,Factor,Visual Basic
+69.1,Factor,Objective-C
+66.0,Factor,Assembly
+66.0,Factor,Perl
+66.0,Factor,VimL
+61.7,Factor,Smalltalk
+60.6,Factor,Java
+59.6,Factor,Emacs Lisp
+55.3,Factor,PHP
+51.1,Factor,Haskell
+50.0,Factor,C#
+50.0,Factor,Lua
+47.9,Factor,Scala
+46.8,Factor,Delphi
+45.7,Factor,Clojure
+43.6,Factor,Erlang
+42.6,Factor,Scheme
+42.6,Factor,CoffeeScript
+42.6,Factor,Common Lisp
+41.5,Factor,FORTRAN
+40.4,Factor,D
+38.3,Factor,OCaml
+35.1,Factor,R
+34.0,Factor,ActionScript
+34.0,Factor,Rust
+33.0,Factor,ASP
+31.9,Factor,Prolog
+31.9,Factor,Objective-J
+30.9,Factor,Boo
+30.9,Factor,Tcl
+30.9,Factor,Groovy
+30.9,Factor,F#
+28.7,Factor,HaXe
+26.6,Factor,Ada
+24.5,Factor,Vala
+24.5,Factor,Rebol
+23.4,Factor,VHDL
+21.3,Factor,Racket
+21.3,Factor,Eiffel
+20.2,Factor,Go
+20.2,Factor,Dylan
+18.1,Factor,Matlab
+14.9,Factor,ColdFusion
+13.8,Factor,XQuery
+10.6,Factor,Nu
+10.6,Factor,Ioke
+9.6,Factor,AutoHotkey
+7.4,Factor,ooc
+7.4,Factor,Nemerle
+4.3,Factor,Puppet
+4.3,Factor,Arc
+4.3,Factor,Parrot
+4.3,Factor,Verilog
+4.3,Factor,Io
+4.3,Factor,SuperCollider
+3.2,Factor,Standard ML
+3.2,Factor,Nimrod
+3.2,Factor,Self
+3.2,Factor,Gosu
+2.1,Factor,Mirah
+2.1,Factor,Fancy
+2.1,Factor,Arduino
+2.1,Factor,Modelica
+1.1,Factor,Fantom
+1.1,Factor,Turing
+1.1,Factor,Pure Data
+1.1,Factor,Opa
+100.0,Fancy,Shell
+100.0,Fancy,Python
+100.0,Fancy,Java
+100.0,Fancy,Ruby
+92.3,Fancy,Clojure
+69.2,Fancy,JavaScript
+53.8,Fancy,C
+43.6,Fancy,PHP
+43.6,Fancy,Perl
+41.0,Fancy,C++
+30.8,Fancy,Emacs Lisp
+28.2,Fancy,VimL
+25.6,Fancy,Scala
+25.6,Fancy,Objective-C
+23.1,Fancy,Haskell
+23.1,Fancy,Erlang
+20.5,Fancy,Assembly
+20.5,Fancy,CoffeeScript
+17.9,Fancy,C#
+17.9,Fancy,Scheme
+17.9,Fancy,Groovy
+15.4,Fancy,Smalltalk
+15.4,Fancy,D
+12.8,Fancy,Go
+12.8,Fancy,ActionScript
+12.8,Fancy,Common Lisp
+12.8,Fancy,R
+12.8,Fancy,Tcl
+10.3,Fancy,Prolog
+10.3,Fancy,Lua
+10.3,Fancy,Delphi
+10.3,Fancy,Visual Basic
+10.3,Fancy,OCaml
+7.7,Fancy,Racket
+7.7,Fancy,HaXe
+7.7,Fancy,Ada
+7.7,Fancy,FORTRAN
+7.7,Fancy,Objective-J
+5.1,Fancy,Dylan
+5.1,Fancy,Gosu
+5.1,Fancy,Nemerle
+5.1,Fancy,Nu
+5.1,Fancy,Rust
+5.1,Fancy,XQuery
+5.1,Fancy,Factor
+5.1,Fancy,ASP
+5.1,Fancy,Rebol
+5.1,Fancy,AutoHotkey
+5.1,Fancy,Ioke
+5.1,Fancy,F#
+5.1,Fancy,Matlab
+5.1,Fancy,Boo
+5.1,Fancy,ColdFusion
+2.6,Fancy,Arc
+2.6,Fancy,Arduino
+2.6,Fancy,Nimrod
+2.6,Fancy,Standard ML
+83.3,Fantom,Java
+83.3,Fantom,JavaScript
+83.3,Fantom,Ruby
+66.7,Fantom,PHP
+66.7,Fantom,Python
+66.7,Fantom,Scala
+66.7,Fantom,Shell
+66.7,Fantom,Groovy
+66.7,Fantom,C++
+50.0,Fantom,Assembly
+50.0,Fantom,Clojure
+50.0,Fantom,C
+50.0,Fantom,CoffeeScript
+50.0,Fantom,Haskell
+33.3,Fantom,Tcl
+33.3,Fantom,F#
+33.3,Fantom,SuperCollider
+33.3,Fantom,Delphi
+33.3,Fantom,Parrot
+33.3,Fantom,XQuery
+33.3,Fantom,R
+33.3,Fantom,Nu
+33.3,Fantom,Racket
+33.3,Fantom,Objective-C
+33.3,Fantom,Perl
+33.3,Fantom,Lua
+33.3,Fantom,Prolog
+33.3,Fantom,Matlab
+33.3,Fantom,OCaml
+33.3,Fantom,VimL
+33.3,Fantom,Scheme
+33.3,Fantom,C#
+33.3,Fantom,Rust
+33.3,Fantom,Nemerle
+33.3,Fantom,Emacs Lisp
+16.7,Fantom,Common Lisp
+16.7,Fantom,Eiffel
+16.7,Fantom,Arduino
+16.7,Fantom,Verilog
+16.7,Fantom,Go
+16.7,Fantom,AutoHotkey
+16.7,Fantom,FORTRAN
+16.7,Fantom,ColdFusion
+16.7,Fantom,ActionScript
+16.7,Fantom,Gosu
+16.7,Fantom,ASP
+16.7,Fantom,Objective-J
+16.7,Fantom,HaXe
+16.7,Fantom,Smalltalk
+16.7,Fantom,Arc
+16.7,Fantom,Boo
+16.7,Fantom,Standard ML
+16.7,Fantom,Rebol
+16.7,Fantom,Erlang
+16.7,Fantom,D
+16.7,Fantom,Vala
+16.7,Fantom,Visual Basic
+16.7,Fantom,Ioke
+16.7,Fantom,Ada
+16.7,Fantom,Turing
+16.7,Fantom,Puppet
+16.7,Fantom,Factor
+68.8,Go,Shell
+62.7,Go,Python
+62.2,Go,JavaScript
+61.9,Go,C
+50.4,Go,Ruby
+46.7,Go,Java
+46.2,Go,C++
+38.4,Go,PHP
+38.0,Go,Perl
+24.6,Go,VimL
+23.5,Go,C#
+23.2,Go,Objective-C
+21.9,Go,Haskell
+18.4,Go,Scala
+17.9,Go,Emacs Lisp
+17.7,Go,Lua
+15.4,Go,Clojure
+15.3,Go,Erlang
+14.9,Go,CoffeeScript
+13.6,Go,Common Lisp
+12.7,Go,OCaml
+12.0,Go,D
+11.6,Go,Assembly
+9.4,Go,Delphi
+9.3,Go,Scheme
+8.6,Go,Visual Basic
+8.2,Go,Tcl
+6.7,Go,R
+6.7,Go,ActionScript
+6.7,Go,Ada
+6.5,Go,Groovy
+6.4,Go,Rust
+6.0,Go,Prolog
+5.9,Go,Racket
+5.1,Go,FORTRAN
+4.8,Go,Smalltalk
+4.8,Go,HaXe
+4.5,Go,F#
+3.9,Go,ASP
+3.0,Go,Matlab
+2.8,Go,Vala
+2.5,Go,Verilog
+2.2,Go,Io
+1.8,Go,SuperCollider
+1.8,Go,Boo
+1.7,Go,Nu
+1.7,Go,VHDL
+1.7,Go,Objective-J
+1.7,Go,ooc
+1.6,Go,ColdFusion
+1.2,Go,Nemerle
+1.1,Go,XQuery
+1.0,Go,Ioke
+1.0,Go,Gosu
+1.0,Go,Standard ML
+1.0,Go,Turing
+0.9,Go,Eiffel
+0.9,Go,Factor
+0.9,Go,AutoHotkey
+0.8,Go,Self
+0.8,Go,Puppet
+0.7,Go,Rebol
+0.7,Go,Arc
+0.5,Go,Modelica
+0.5,Go,Arduino
+0.4,Go,Parrot
+0.4,Go,Mirah
+0.3,Go,Pure Data
+0.3,Go,Nimrod
+0.2,Go,Fancy
+0.1,Go,Dylan
+0.1,Go,Fantom
+92.7,Gosu,JavaScript
+84.4,Gosu,Groovy
+64.9,Gosu,Java
+60.5,Gosu,Shell
+37.6,Gosu,Ruby
+33.6,Gosu,Python
+32.4,Gosu,C
+30.3,Gosu,PHP
+27.1,Gosu,C++
+25.6,Gosu,Perl
+21.8,Gosu,Scala
+17.7,Gosu,Objective-C
+16.8,Gosu,VimL
+16.8,Gosu,CoffeeScript
+15.8,Gosu,Emacs Lisp
+14.9,Gosu,Assembly
+14.3,Gosu,Rust
+13.7,Gosu,Prolog
+13.4,Gosu,Delphi
+12.6,Gosu,R
+10.9,Gosu,Ioke
+10.7,Gosu,Nemerle
+10.7,Gosu,Scheme
+10.3,Gosu,Matlab
+10.3,Gosu,OCaml
+10.1,Gosu,Rebol
+9.7,Gosu,Nu
+9.7,Gosu,Parrot
+9.7,Gosu,Racket
+9.5,Gosu,XQuery
+9.4,Gosu,C#
+9.2,Gosu,Standard ML
+9.0,Gosu,Visual Basic
+9.0,Gosu,AutoHotkey
+8.8,Gosu,SuperCollider
+7.6,Gosu,ActionScript
+7.6,Gosu,Clojure
+7.3,Gosu,Haskell
+6.7,Gosu,Arduino
+6.5,Gosu,Lua
+6.3,Gosu,Turing
+5.5,Gosu,Erlang
+5.0,Gosu,Nimrod
+4.6,Gosu,D
+4.6,Gosu,FORTRAN
+4.6,Gosu,F#
+4.0,Gosu,Tcl
+4.0,Gosu,ASP
+3.8,Gosu,Go
+2.9,Gosu,Opa
+2.9,Gosu,Smalltalk
+2.7,Gosu,Common Lisp
+2.1,Gosu,Ada
+1.7,Gosu,Vala
+1.7,Gosu,Io
+1.3,Gosu,Modelica
+1.3,Gosu,ColdFusion
+1.1,Gosu,HaXe
+1.1,Gosu,VHDL
+1.0,Gosu,Boo
+1.0,Gosu,Eiffel
+1.0,Gosu,Objective-J
+0.8,Gosu,Arc
+0.6,Gosu,Factor
+0.6,Gosu,Verilog
+0.6,Gosu,Dylan
+0.6,Gosu,ooc
+0.4,Gosu,Fancy
+0.4,Gosu,Self
+0.4,Gosu,Puppet
+0.2,Gosu,Pure Data
+0.2,Gosu,Fantom
+77.1,Groovy,Java
+72.9,Groovy,JavaScript
+60.1,Groovy,Shell
+39.1,Groovy,Ruby
+34.8,Groovy,Python
+24.3,Groovy,C
+23.9,Groovy,PHP
+22.2,Groovy,Perl
+20.5,Groovy,Scala
+15.9,Groovy,C++
+11.7,Groovy,Objective-C
+11.1,Groovy,C#
+10.2,Groovy,CoffeeScript
+9.9,Groovy,Clojure
+8.6,Groovy,VimL
+8.2,Groovy,Gosu
+6.6,Groovy,Emacs Lisp
+6.1,Groovy,Erlang
+5.9,Groovy,Haskell
+5.6,Groovy,ActionScript
+5.1,Groovy,Assembly
+5.1,Groovy,Lua
+5.1,Groovy,Delphi
+4.8,Groovy,Visual Basic
+4.2,Groovy,OCaml
+4.1,Groovy,Scheme
+3.9,Groovy,R
+3.7,Groovy,D
+3.7,Groovy,ASP
+3.5,Groovy,Prolog
+3.4,Groovy,Rust
+2.8,Groovy,Common Lisp
+2.4,Groovy,Go
+2.4,Groovy,Tcl
+2.4,Groovy,Smalltalk
+2.2,Groovy,Ioke
+2.2,Groovy,ColdFusion
+2.1,Groovy,Nu
+2.0,Groovy,FORTRAN
+2.0,Groovy,Racket
+1.8,Groovy,XQuery
+1.8,Groovy,HaXe
+1.8,Groovy,Matlab
+1.6,Groovy,Boo
+1.4,Groovy,Vala
+1.4,Groovy,Rebol
+1.4,Groovy,VHDL
+1.3,Groovy,Objective-J
+1.3,Groovy,Nemerle
+1.3,Groovy,SuperCollider
+1.1,Groovy,Standard ML
+1.1,Groovy,Parrot
+1.1,Groovy,AutoHotkey
+1.0,Groovy,Ada
+1.0,Groovy,F#
+0.8,Groovy,Arduino
+0.8,Groovy,Puppet
+0.8,Groovy,Io
+0.7,Groovy,Turing
+0.7,Groovy,Eiffel
+0.5,Groovy,Nimrod
+0.5,Groovy,Factor
+0.5,Groovy,ooc
+0.4,Groovy,Verilog
+0.4,Groovy,Modelica
+0.3,Groovy,Dylan
+0.3,Groovy,Mirah
+0.3,Groovy,Opa
+0.1,Groovy,Arc
+0.1,Groovy,Fancy
+0.1,Groovy,Pure Data
+0.1,Groovy,Self
+0.1,Groovy,Fantom
+80.3,HaXe,Shell
+72.9,HaXe,JavaScript
+71.3,HaXe,Python
+67.7,HaXe,C
+59.9,HaXe,C++
+57.9,HaXe,Perl
+52.7,HaXe,Java
+52.1,HaXe,Objective-C
+50.5,HaXe,Ruby
+49.1,HaXe,PHP
+37.4,HaXe,Assembly
+35.3,HaXe,C#
+34.5,HaXe,Lua
+34.2,HaXe,ActionScript
+28.9,HaXe,VimL
+26.0,HaXe,Haskell
+25.9,HaXe,Scala
+20.7,HaXe,Clojure
+20.5,HaXe,Common Lisp
+20.3,HaXe,D
+20.3,HaXe,Emacs Lisp
+20.0,HaXe,OCaml
+18.9,HaXe,Rust
+18.5,HaXe,Ada
+18.0,HaXe,CoffeeScript
+17.4,HaXe,R
+16.1,HaXe,Scheme
+15.8,HaXe,ASP
+15.1,HaXe,Erlang
+15.1,HaXe,Delphi
+15.1,HaXe,Groovy
+15.0,HaXe,Go
+13.7,HaXe,Prolog
+13.7,HaXe,F#
+13.4,HaXe,Racket
+12.8,HaXe,Visual Basic
+12.1,HaXe,FORTRAN
+11.2,HaXe,Smalltalk
+11.0,HaXe,Objective-J
+10.9,HaXe,ColdFusion
+10.6,HaXe,Tcl
+9.9,HaXe,Boo
+7.9,HaXe,VHDL
+7.4,HaXe,Vala
+6.5,HaXe,SuperCollider
+6.0,HaXe,Eiffel
+5.4,HaXe,Nemerle
+5.0,HaXe,Matlab
+4.3,HaXe,Factor
+3.6,HaXe,XQuery
+3.6,HaXe,Rebol
+3.6,HaXe,Dylan
+3.0,HaXe,Verilog
+2.8,HaXe,Nu
+2.8,HaXe,Ioke
+2.7,HaXe,AutoHotkey
+2.5,HaXe,ooc
+2.1,HaXe,Modelica
+1.6,HaXe,Turing
+1.4,HaXe,Puppet
+1.1,HaXe,Nimrod
+1.1,HaXe,Standard ML
+0.9,HaXe,Gosu
+0.8,HaXe,Pure Data
+0.8,HaXe,Parrot
+0.8,HaXe,Arc
+0.6,HaXe,Io
+0.5,HaXe,Self
+0.5,HaXe,Arduino
+0.5,HaXe,Fancy
+0.3,HaXe,Mirah
+0.2,HaXe,Fantom
+0.2,HaXe,Opa
+72.5,Haskell,Shell
+59.7,Haskell,Python
+59.0,Haskell,C
+56.8,Haskell,JavaScript
+44.8,Haskell,Ruby
+42.2,Haskell,Java
+41.3,Haskell,C++
+38.6,Haskell,Perl
+34.2,Haskell,VimL
+28.4,Haskell,PHP
+26.3,Haskell,Emacs Lisp
+21.3,Haskell,Objective-C
+17.2,Haskell,C#
+14.5,Haskell,Erlang
+14.5,Haskell,Scala
+12.7,Haskell,Scheme
+12.3,Haskell,Clojure
+12.2,Haskell,Lua
+11.3,Haskell,Assembly
+10.9,Haskell,Common Lisp
+10.6,Haskell,CoffeeScript
+10.0,Haskell,OCaml
+7.9,Haskell,Go
+7.9,Haskell,D
+7.4,Haskell,Prolog
+6.6,Haskell,R
+6.5,Haskell,Delphi
+6.5,Haskell,Rust
+6.3,Haskell,Visual Basic
+5.9,Haskell,ActionScript
+5.7,Haskell,Groovy
+5.7,Haskell,Tcl
+5.5,Haskell,Smalltalk
+5.4,Haskell,FORTRAN
+4.8,Haskell,ASP
+3.4,Haskell,Racket
+3.3,Haskell,Ada
+3.3,Haskell,F#
+3.1,Haskell,Matlab
+3.0,Haskell,HaXe
+2.7,Haskell,Verilog
+2.4,Haskell,Boo
+2.1,Haskell,Objective-J
+1.9,Haskell,Vala
+1.9,Haskell,VHDL
+1.8,Haskell,ColdFusion
+1.8,Haskell,Eiffel
+1.7,Haskell,Io
+1.6,Haskell,SuperCollider
+1.5,Haskell,Nu
+1.2,Haskell,Puppet
+1.2,Haskell,Standard ML
+1.0,Haskell,Rebol
+0.9,Haskell,XQuery
+0.9,Haskell,Factor
+0.7,Haskell,Nemerle
+0.7,Haskell,Gosu
+0.7,Haskell,ooc
+0.6,Haskell,Pure Data
+0.6,Haskell,AutoHotkey
+0.5,Haskell,Modelica
+0.5,Haskell,Turing
+0.4,Haskell,Dylan
+0.4,Haskell,Self
+0.4,Haskell,Arduino
+0.4,Haskell,Ioke
+0.4,Haskell,Arc
+0.4,Haskell,Parrot
+0.2,Haskell,Mirah
+0.2,Haskell,Nimrod
+0.2,Haskell,Fancy
+0.1,Haskell,Opa
+0.1,Haskell,Fantom
+84.8,Io,Ruby
+78.3,Io,JavaScript
+75.7,Io,Shell
+68.6,Io,Python
+66.7,Io,C
+49.0,Io,Java
+47.1,Io,C++
+46.7,Io,Objective-C
+45.2,Io,Perl
+41.9,Io,PHP
+41.7,Io,VimL
+31.9,Io,Emacs Lisp
+27.1,Io,Scala
+24.3,Io,CoffeeScript
+22.9,Io,Prolog
+22.1,Io,Haskell
+19.5,Io,Clojure
+19.0,Io,Erlang
+17.9,Io,Assembly
+17.6,Io,C#
+16.9,Io,Lua
+14.5,Io,R
+14.3,Io,Scheme
+13.8,Io,D
+13.1,Io,Rust
+11.0,Io,ActionScript
+11.0,Io,Tcl
+10.7,Io,Go
+9.8,Io,Groovy
+8.8,Io,OCaml
+8.3,Io,FORTRAN
+7.6,Io,Common Lisp
+7.6,Io,Rebol
+7.4,Io,ASP
+7.1,Io,Visual Basic
+5.7,Io,Smalltalk
+4.3,Io,Matlab
+4.0,Io,Delphi
+3.8,Io,F#
+3.1,Io,Racket
+2.9,Io,SuperCollider
+2.6,Io,Arc
+2.6,Io,Ada
+2.4,Io,Eiffel
+2.1,Io,Puppet
+2.1,Io,Gosu
+1.9,Io,ooc
+1.7,Io,Nemerle
+1.7,Io,Objective-J
+1.4,Io,Standard ML
+1.4,Io,Vala
+1.4,Io,ColdFusion
+1.2,Io,Turing
+1.2,Io,Modelica
+1.2,Io,VHDL
+1.0,Io,Nu
+1.0,Io,HaXe
+1.0,Io,Pure Data
+1.0,Io,Self
+1.0,Io,Factor
+1.0,Io,Arduino
+0.7,Io,Verilog
+0.7,Io,Parrot
+0.7,Io,XQuery
+0.7,Io,Mirah
+0.5,Io,Boo
+0.5,Io,Ioke
+0.2,Io,AutoHotkey
+99.2,Ioke,JavaScript
+97.7,Ioke,Ruby
+94.7,Ioke,Scala
+93.1,Ioke,Python
+91.6,Ioke,Groovy
+79.4,Ioke,Java
+78.6,Ioke,Shell
+66.4,Ioke,C
+61.8,Ioke,C++
+61.8,Ioke,PHP
+58.0,Ioke,Clojure
+58.0,Ioke,Objective-C
+57.3,Ioke,CoffeeScript
+57.3,Ioke,Perl
+53.4,Ioke,Prolog
+53.4,Ioke,Assembly
+53.4,Ioke,VimL
+51.9,Ioke,R
+48.9,Ioke,XQuery
+48.9,Ioke,Delphi
+48.1,Ioke,OCaml
+48.1,Ioke,Nemerle
+48.1,Ioke,Racket
+48.1,Ioke,Nu
+47.3,Ioke,Scheme
+45.8,Ioke,Emacs Lisp
+45.0,Ioke,AutoHotkey
+45.0,Ioke,Rebol
+43.5,Ioke,Gosu
+43.5,Ioke,Rust
+38.9,Ioke,Matlab
+38.2,Ioke,Parrot
+33.6,Ioke,SuperCollider
+32.1,Ioke,Standard ML
+26.0,Ioke,C#
+25.2,Ioke,Arduino
+24.4,Ioke,Turing
+22.1,Ioke,Nimrod
+21.4,Ioke,Lua
+19.8,Ioke,D
+19.8,Ioke,Erlang
+19.1,Ioke,ActionScript
+18.3,Ioke,Visual Basic
+18.3,Ioke,FORTRAN
+17.6,Ioke,Haskell
+16.8,Ioke,Common Lisp
+15.3,Ioke,ASP
+15.3,Ioke,Go
+14.5,Ioke,Boo
+13.7,Ioke,ColdFusion
+13.7,Ioke,HaXe
+13.0,Ioke,Objective-J
+11.5,Ioke,Vala
+11.5,Ioke,Opa
+10.7,Ioke,VHDL
+9.9,Ioke,Tcl
+8.4,Ioke,ooc
+7.6,Ioke,Factor
+6.1,Ioke,Ada
+5.3,Ioke,Smalltalk
+4.6,Ioke,Dylan
+4.6,Ioke,Modelica
+2.3,Ioke,Self
+2.3,Ioke,F#
+1.5,Ioke,Fancy
+1.5,Ioke,Eiffel
+1.5,Ioke,Io
+0.8,Ioke,Fantom
+0.8,Ioke,Puppet
+0.8,Ioke,Arc
+0.8,Ioke,Verilog
+0.8,Ioke,Mirah
+44.9,Java,JavaScript
+43.2,Java,Shell
+31.2,Java,Python
+30.1,Java,C
+25.8,Java,Ruby
+22.4,Java,C++
+18.9,Java,PHP
+16.7,Java,Perl
+11.5,Java,Objective-C
+8.8,Java,C#
+8.1,Java,VimL
+6.4,Java,Emacs Lisp
+6.3,Java,Scala
+6.3,Java,Groovy
+5.9,Java,Assembly
+5.4,Java,CoffeeScript
+4.1,Java,ActionScript
+3.7,Java,Rust
+3.6,Java,D
+3.5,Java,Haskell
+3.5,Java,Clojure
+3.2,Java,Prolog
+3.2,Java,Lua
+3.0,Java,ASP
+2.7,Java,Visual Basic
+2.7,Java,Tcl
+2.6,Java,Erlang
+2.3,Java,Scheme
+2.1,Java,R
+2.1,Java,Delphi
+1.8,Java,Common Lisp
+1.4,Java,OCaml
+1.4,Java,Go
+1.4,Java,Matlab
+1.3,Java,Smalltalk
+1.2,Java,FORTRAN
+1.1,Java,Ada
+1.1,Java,SuperCollider
+0.8,Java,Verilog
+0.8,Java,ColdFusion
+0.6,Java,F#
+0.6,Java,Arduino
+0.5,Java,Gosu
+0.5,Java,HaXe
+0.5,Java,Objective-J
+0.4,Java,VHDL
+0.4,Java,Modelica
+0.4,Java,Racket
+0.4,Java,XQuery
+0.3,Java,Vala
+0.3,Java,Puppet
+0.3,Java,Io
+0.3,Java,Boo
+0.3,Java,Eiffel
+0.3,Java,Standard ML
+0.2,Java,Pure Data
+0.2,Java,Nu
+0.2,Java,Turing
+0.2,Java,Ioke
+0.2,Java,Nemerle
+0.1,Java,Rebol
+0.1,Java,AutoHotkey
+0.1,Java,Mirah
+0.1,Java,Parrot
+0.1,Java,Factor
+0.1,Java,ooc
+0.1,Java,Arc
+0.1,Java,Self
+0.1,Java,Fancy
+50.8,JavaScript,Ruby
+37.9,JavaScript,Shell
+30.5,JavaScript,PHP
+27.8,JavaScript,Python
+20.5,JavaScript,C
+19.8,JavaScript,Java
+13.1,JavaScript,C++
+13.1,JavaScript,Perl
+12.3,JavaScript,CoffeeScript
+8.5,JavaScript,VimL
+8.1,JavaScript,Objective-C
+7.9,JavaScript,C#
+5.0,JavaScript,ASP
+4.6,JavaScript,Emacs Lisp
+4.3,JavaScript,ActionScript
+3.2,JavaScript,Assembly
+2.6,JavaScript,Groovy
+2.5,JavaScript,Scala
+2.4,JavaScript,D
+2.2,JavaScript,Rust
+2.1,JavaScript,Lua
+2.1,JavaScript,Haskell
+2.1,JavaScript,Visual Basic
+1.9,JavaScript,Prolog
+1.7,JavaScript,Clojure
+1.7,JavaScript,Erlang
+1.7,JavaScript,Scheme
+1.4,JavaScript,Tcl
+1.4,JavaScript,R
+1.0,JavaScript,Delphi
+1.0,JavaScript,Common Lisp
+0.9,JavaScript,Modelica
+0.8,JavaScript,Go
+0.8,JavaScript,ColdFusion
+0.7,JavaScript,OCaml
+0.6,JavaScript,Smalltalk
+0.6,JavaScript,Matlab
+0.6,JavaScript,FORTRAN
+0.5,JavaScript,Ada
+0.5,JavaScript,F#
+0.4,JavaScript,SuperCollider
+0.4,JavaScript,Puppet
+0.4,JavaScript,Verilog
+0.4,JavaScript,Objective-J
+0.3,JavaScript,Gosu
+0.3,JavaScript,HaXe
+0.3,JavaScript,Racket
+0.2,JavaScript,Boo
+0.2,JavaScript,Io
+0.2,JavaScript,Arduino
+0.2,JavaScript,Vala
+0.2,JavaScript,XQuery
+0.2,JavaScript,VHDL
+0.1,JavaScript,Standard ML
+0.1,JavaScript,Nu
+0.1,JavaScript,Eiffel
+0.1,JavaScript,AutoHotkey
+0.1,JavaScript,Nemerle
+0.1,JavaScript,Pure Data
+0.1,JavaScript,Parrot
+0.1,JavaScript,Turing
+0.1,JavaScript,Ioke
+0.1,JavaScript,Rebol
+0.1,JavaScript,Factor
+0.1,JavaScript,ooc
+71.5,Lua,Shell
+65.7,Lua,C
+57.0,Lua,Python
+52.8,Lua,C++
+51.0,Lua,JavaScript
+41.0,Lua,Perl
+40.4,Lua,Ruby
+34.5,Lua,Java
+31.6,Lua,PHP
+26.3,Lua,VimL
+26.3,Lua,Objective-C
+20.1,Lua,C#
+16.8,Lua,Assembly
+16.2,Lua,Emacs Lisp
+12.4,Lua,Rust
+11.6,Lua,D
+10.9,Lua,Haskell
+9.9,Lua,Scheme
+9.0,Lua,CoffeeScript
+8.8,Lua,Prolog
+8.7,Lua,Visual Basic
+8.3,Lua,Common Lisp
+7.9,Lua,Delphi
+7.6,Lua,Tcl
+7.4,Lua,Erlang
+7.3,Lua,Scala
+7.3,Lua,Clojure
+7.3,Lua,R
+6.6,Lua,OCaml
+5.8,Lua,ActionScript
+5.7,Lua,Go
+5.4,Lua,FORTRAN
+4.8,Lua,Ada
+4.4,Lua,Groovy
+4.4,Lua,ASP
+3.5,Lua,HaXe
+3.5,Lua,Smalltalk
+3.3,Lua,Matlab
+3.2,Lua,F#
+2.8,Lua,Vala
+2.4,Lua,Racket
+2.4,Lua,Boo
+2.3,Lua,ColdFusion
+2.1,Lua,VHDL
+1.8,Lua,SuperCollider
+1.6,Lua,Objective-J
+1.4,Lua,Verilog
+1.3,Lua,Nu
+1.3,Lua,Eiffel
+1.1,Lua,Io
+1.0,Lua,Standard ML
+0.8,Lua,Nemerle
+0.8,Lua,Rebol
+0.8,Lua,Factor
+0.7,Lua,Puppet
+0.7,Lua,Modelica
+0.6,Lua,ooc
+0.6,Lua,AutoHotkey
+0.6,Lua,XQuery
+0.6,Lua,Pure Data
+0.6,Lua,Turing
+0.5,Lua,Gosu
+0.5,Lua,Ioke
+0.4,Lua,Self
+0.4,Lua,Parrot
+0.4,Lua,Arduino
+0.4,Lua,Dylan
+0.3,Lua,Arc
+0.2,Lua,Mirah
+0.2,Lua,Nimrod
+0.1,Lua,Fancy
+68.3,Matlab,C
+66.7,Matlab,Shell
+64.3,Matlab,Python
+60.2,Matlab,C++
+56.1,Matlab,Objective-C
+38.6,Matlab,Java
+37.7,Matlab,JavaScript
+33.9,Matlab,Perl
+25.2,Matlab,Ruby
+20.8,Matlab,PHP
+20.5,Matlab,Assembly
+15.5,Matlab,FORTRAN
+15.3,Matlab,R
+15.2,Matlab,Emacs Lisp
+14.8,Matlab,VimL
+13.7,Matlab,C#
+12.9,Matlab,Prolog
+10.9,Matlab,D
+10.4,Matlab,Rust
+9.9,Matlab,Tcl
+9.2,Matlab,Scheme
+8.4,Matlab,Lua
+7.7,Matlab,OCaml
+7.7,Matlab,Delphi
+7.2,Matlab,Haskell
+7.1,Matlab,CoffeeScript
+6.0,Matlab,Scala
+5.7,Matlab,Visual Basic
+5.4,Matlab,Common Lisp
+5.3,Matlab,SuperCollider
+4.2,Matlab,ActionScript
+4.0,Matlab,VHDL
+4.0,Matlab,Groovy
+3.9,Matlab,Clojure
+3.8,Matlab,ASP
+3.8,Matlab,Erlang
+3.6,Matlab,Ada
+3.6,Matlab,Racket
+3.4,Matlab,Verilog
+3.1,Matlab,Eiffel
+3.1,Matlab,Nemerle
+2.8,Matlab,Rebol
+2.5,Matlab,Nu
+2.5,Matlab,Standard ML
+2.5,Matlab,Go
+2.4,Matlab,Smalltalk
+2.4,Matlab,Parrot
+2.3,Matlab,Objective-J
+2.2,Matlab,F#
+2.2,Matlab,Gosu
+2.2,Matlab,XQuery
+2.1,Matlab,Ioke
+2.0,Matlab,AutoHotkey
+2.0,Matlab,Vala
+2.0,Matlab,Arduino
+1.9,Matlab,Turing
+1.6,Matlab,Pure Data
+1.3,Matlab,HaXe
+1.0,Matlab,Nimrod
+0.9,Matlab,Modelica
+0.8,Matlab,Boo
+0.7,Matlab,Io
+0.7,Matlab,Factor
+0.6,Matlab,Opa
+0.5,Matlab,Arc
+0.4,Matlab,Dylan
+0.4,Matlab,Puppet
+0.4,Matlab,ColdFusion
+0.2,Matlab,Self
+0.2,Matlab,ooc
+0.1,Matlab,Fantom
+0.1,Matlab,Fancy
+0.1,Matlab,Mirah
+77.8,Max/MSP,JavaScript
+55.6,Max/MSP,Ruby
+55.6,Max/MSP,C
+44.4,Max/MSP,PHP
+33.3,Max/MSP,Java
+33.3,Max/MSP,C++
+33.3,Max/MSP,Shell
+22.2,Max/MSP,Clojure
+22.2,Max/MSP,Perl
+22.2,Max/MSP,Objective-C
+22.2,Max/MSP,Pure Data
+22.2,Max/MSP,CoffeeScript
+11.1,Max/MSP,Groovy
+11.1,Max/MSP,Prolog
+11.1,Max/MSP,Python
+11.1,Max/MSP,VimL
+11.1,Max/MSP,Emacs Lisp
+11.1,Max/MSP,SuperCollider
+11.1,Max/MSP,Scheme
+94.9,Mirah,JavaScript
+87.3,Mirah,Ruby
+84.8,Mirah,Shell
+81.0,Mirah,Java
+67.1,Mirah,Python
+64.6,Mirah,C
+45.6,Mirah,Perl
+40.5,Mirah,C++
+38.0,Mirah,Emacs Lisp
+34.2,Mirah,VimL
+34.2,Mirah,Assembly
+32.9,Mirah,CoffeeScript
+31.6,Mirah,Objective-C
+30.4,Mirah,Clojure
+26.6,Mirah,PHP
+25.3,Mirah,OCaml
+24.1,Mirah,Scala
+24.1,Mirah,Scheme
+20.3,Mirah,Groovy
+19.0,Mirah,C#
+19.0,Mirah,Lua
+17.7,Mirah,Tcl
+15.2,Mirah,Haskell
+11.4,Mirah,Rust
+11.4,Mirah,ActionScript
+10.1,Mirah,Go
+7.6,Mirah,Prolog
+6.3,Mirah,Visual Basic
+6.3,Mirah,D
+6.3,Mirah,ASP
+5.1,Mirah,R
+5.1,Mirah,Common Lisp
+5.1,Mirah,FORTRAN
+3.8,Mirah,Io
+3.8,Mirah,SuperCollider
+3.8,Mirah,F#
+3.8,Mirah,Erlang
+2.5,Mirah,Vala
+2.5,Mirah,Racket
+2.5,Mirah,Factor
+2.5,Mirah,ColdFusion
+2.5,Mirah,HaXe
+2.5,Mirah,Matlab
+2.5,Mirah,Smalltalk
+2.5,Mirah,Delphi
+2.5,Mirah,Arc
+1.3,Mirah,Ioke
+1.3,Mirah,Rebol
+1.3,Mirah,Boo
+1.3,Mirah,Puppet
+1.3,Mirah,Objective-J
+1.3,Mirah,Arduino
+1.3,Mirah,ooc
+1.3,Mirah,Ada
+1.3,Mirah,Standard ML
+1.3,Mirah,Eiffel
+89.9,Modelica,JavaScript
+71.9,Modelica,Shell
+67.1,Modelica,PHP
+57.5,Modelica,Python
+30.8,Modelica,C
+26.3,Modelica,Ruby
+18.9,Modelica,Perl
+17.3,Modelica,Java
+17.0,Modelica,C++
+12.6,Modelica,VimL
+9.2,Modelica,Objective-C
+7.2,Modelica,ASP
+7.1,Modelica,C#
+6.2,Modelica,Emacs Lisp
+5.7,Modelica,ActionScript
+5.6,Modelica,Assembly
+5.2,Modelica,CoffeeScript
+5.0,Modelica,D
+4.5,Modelica,Visual Basic
+4.3,Modelica,Puppet
+3.9,Modelica,Prolog
+3.3,Modelica,R
+2.9,Modelica,Lua
+2.8,Modelica,Rust
+2.7,Modelica,Delphi
+2.4,Modelica,Scheme
+2.2,Modelica,Tcl
+2.1,Modelica,Scala
+1.7,Modelica,Haskell
+1.6,Modelica,ColdFusion
+1.6,Modelica,Groovy
+1.5,Modelica,Erlang
+1.5,Modelica,Matlab
+1.4,Modelica,OCaml
+1.2,Modelica,SuperCollider
+1.1,Modelica,Ada
+1.1,Modelica,Nemerle
+1.0,Modelica,Smalltalk
+0.9,Modelica,HaXe
+0.8,Modelica,FORTRAN
+0.8,Modelica,Common Lisp
+0.8,Modelica,Objective-J
+0.8,Modelica,Turing
+0.7,Modelica,AutoHotkey
+0.7,Modelica,Go
+0.5,Modelica,Boo
+0.5,Modelica,Standard ML
+0.5,Modelica,Clojure
+0.5,Modelica,Vala
+0.5,Modelica,Racket
+0.5,Modelica,Gosu
+0.5,Modelica,Arduino
+0.5,Modelica,F#
+0.5,Modelica,XQuery
+0.5,Modelica,Nu
+0.5,Modelica,Parrot
+0.4,Modelica,Ioke
+0.4,Modelica,Rebol
+0.3,Modelica,Nimrod
+0.3,Modelica,Io
+0.3,Modelica,Eiffel
+0.3,Modelica,Pure Data
+0.3,Modelica,Verilog
+0.3,Modelica,Opa
+0.2,Modelica,Arc
+0.1,Modelica,VHDL
+0.1,Modelica,Factor
+0.1,Modelica,Dylan
+95.6,Nemerle,Shell
+92.6,Nemerle,C
+79.8,Nemerle,C++
+74.3,Nemerle,Python
+73.9,Nemerle,Perl
+64.3,Nemerle,Assembly
+61.8,Nemerle,Rust
+59.9,Nemerle,JavaScript
+49.3,Nemerle,R
+47.4,Nemerle,PHP
+47.1,Nemerle,Objective-C
+46.3,Nemerle,Ruby
+40.8,Nemerle,Emacs Lisp
+40.4,Nemerle,VimL
+38.2,Nemerle,Java
+37.1,Nemerle,D
+36.4,Nemerle,C#
+36.4,Nemerle,Prolog
+34.6,Nemerle,Delphi
+32.4,Nemerle,Scheme
+32.0,Nemerle,OCaml
+27.6,Nemerle,Matlab
+26.8,Nemerle,CoffeeScript
+26.5,Nemerle,SuperCollider
+26.1,Nemerle,Groovy
+25.4,Nemerle,Scala
+23.9,Nemerle,Tcl
+23.2,Nemerle,Ioke
+23.2,Nemerle,Racket
+22.8,Nemerle,Visual Basic
+22.8,Nemerle,Nu
+21.7,Nemerle,XQuery
+21.0,Nemerle,ASP
+20.6,Nemerle,Gosu
+20.2,Nemerle,Rebol
+20.2,Nemerle,AutoHotkey
+19.5,Nemerle,Parrot
+19.1,Nemerle,Lua
+18.4,Nemerle,FORTRAN
+15.8,Nemerle,Standard ML
+15.4,Nemerle,Turing
+14.3,Nemerle,Haskell
+12.9,Nemerle,Ada
+12.5,Nemerle,Arduino
+12.5,Nemerle,HaXe
+11.8,Nemerle,ActionScript
+11.4,Nemerle,Common Lisp
+10.7,Nemerle,Nimrod
+10.3,Nemerle,Erlang
+9.6,Nemerle,F#
+8.8,Nemerle,Go
+8.8,Nemerle,Clojure
+8.8,Nemerle,Objective-J
+7.4,Nemerle,Smalltalk
+7.0,Nemerle,Eiffel
+6.2,Nemerle,Vala
+5.9,Nemerle,ColdFusion
+5.9,Nemerle,Boo
+5.9,Nemerle,Modelica
+5.5,Nemerle,Opa
+5.5,Nemerle,VHDL
+4.0,Nemerle,ooc
+3.3,Nemerle,Pure Data
+2.9,Nemerle,Verilog
+2.9,Nemerle,Arc
+2.9,Nemerle,Self
+2.6,Nemerle,Io
+2.6,Nemerle,Factor
+1.1,Nemerle,Dylan
+0.7,Nemerle,Fantom
+0.7,Nemerle,Puppet
+0.7,Nemerle,Fancy
+100.0,Nimrod,Python
+100.0,Nimrod,Shell
+97.0,Nimrod,C
+97.0,Nimrod,Delphi
+97.0,Nimrod,JavaScript
+93.9,Nimrod,Assembly
+93.9,Nimrod,Ruby
+93.9,Nimrod,R
+93.9,Nimrod,Objective-C
+93.9,Nimrod,Perl
+90.9,Nimrod,C++
+90.9,Nimrod,Scheme
+90.9,Nimrod,CoffeeScript
+90.9,Nimrod,OCaml
+90.9,Nimrod,PHP
+87.9,Nimrod,Prolog
+87.9,Nimrod,Scala
+87.9,Nimrod,Ioke
+87.9,Nimrod,Groovy
+87.9,Nimrod,AutoHotkey
+87.9,Nimrod,XQuery
+87.9,Nimrod,VimL
+87.9,Nimrod,Nemerle
+84.8,Nimrod,Racket
+84.8,Nimrod,Nu
+78.8,Nimrod,Rust
+78.8,Nimrod,Gosu
+75.8,Nimrod,Rebol
+72.7,Nimrod,Standard ML
+72.7,Nimrod,Emacs Lisp
+72.7,Nimrod,SuperCollider
+69.7,Nimrod,Matlab
+69.7,Nimrod,Parrot
+66.7,Nimrod,Turing
+66.7,Nimrod,Arduino
+48.5,Nimrod,Java
+45.5,Nimrod,Opa
+36.4,Nimrod,Erlang
+33.3,Nimrod,FORTRAN
+33.3,Nimrod,Haskell
+33.3,Nimrod,C#
+33.3,Nimrod,D
+30.3,Nimrod,Lua
+30.3,Nimrod,Visual Basic
+30.3,Nimrod,Common Lisp
+27.3,Nimrod,Clojure
+24.2,Nimrod,Vala
+24.2,Nimrod,ASP
+24.2,Nimrod,Boo
+21.2,Nimrod,HaXe
+21.2,Nimrod,Objective-J
+21.2,Nimrod,ActionScript
+21.2,Nimrod,ColdFusion
+21.2,Nimrod,VHDL
+18.2,Nimrod,Go
+15.2,Nimrod,Modelica
+15.2,Nimrod,ooc
+15.2,Nimrod,Tcl
+9.1,Nimrod,Ada
+9.1,Nimrod,Factor
+6.1,Nimrod,Smalltalk
+6.1,Nimrod,Dylan
+6.1,Nimrod,F#
+3.0,Nimrod,Eiffel
+3.0,Nimrod,Self
+3.0,Nimrod,Fancy
+94.8,Nu,C
+89.6,Nu,Python
+83.7,Nu,Shell
+79.7,Nu,JavaScript
+78.5,Nu,Ruby
+68.1,Nu,Objective-C
+66.5,Nu,Perl
+66.5,Nu,C++
+59.8,Nu,PHP
+49.0,Nu,Java
+49.0,Nu,Scheme
+47.8,Nu,Assembly
+47.0,Nu,Emacs Lisp
+45.8,Nu,Scala
+45.8,Nu,Delphi
+45.4,Nu,Groovy
+44.2,Nu,OCaml
+44.2,Nu,R
+41.8,Nu,Prolog
+41.8,Nu,VimL
+38.6,Nu,CoffeeScript
+33.1,Nu,Lua
+32.7,Nu,Racket
+32.7,Nu,C#
+32.3,Nu,Haskell
+31.9,Nu,Erlang
+30.3,Nu,FORTRAN
+30.3,Nu,Common Lisp
+30.3,Nu,Parrot
+27.5,Nu,D
+26.3,Nu,Boo
+25.5,Nu,Rust
+25.5,Nu,ColdFusion
+25.1,Nu,Ioke
+24.7,Nu,Nemerle
+24.3,Nu,Matlab
+23.9,Nu,XQuery
+23.5,Nu,Rebol
+21.5,Nu,AutoHotkey
+20.3,Nu,Gosu
+18.7,Nu,SuperCollider
+17.9,Nu,Visual Basic
+17.9,Nu,ASP
+16.7,Nu,Standard ML
+16.3,Nu,Clojure
+15.1,Nu,Vala
+13.9,Nu,Arduino
+13.5,Nu,Go
+13.1,Nu,VHDL
+12.7,Nu,Turing
+12.0,Nu,ActionScript
+11.2,Nu,Nimrod
+9.2,Nu,Tcl
+8.8,Nu,Objective-J
+7.2,Nu,HaXe
+6.0,Nu,Opa
+5.6,Nu,ooc
+4.0,Nu,Factor
+3.2,Nu,Smalltalk
+2.8,Nu,Modelica
+2.4,Nu,F#
+1.6,Nu,Ada
+1.6,Nu,Verilog
+1.6,Nu,Io
+1.2,Nu,Arc
+1.2,Nu,Eiffel
+1.2,Nu,Self
+0.8,Nu,Fantom
+0.8,Nu,Puppet
+0.8,Nu,Fancy
+0.8,Nu,Dylan
+0.4,Nu,Pure Data
+83.1,OCaml,Shell
+80.4,OCaml,C
+73.9,OCaml,Python
+64.7,OCaml,JavaScript
+64.0,OCaml,C++
+63.8,OCaml,Perl
+57.4,OCaml,Java
+52.4,OCaml,Ruby
+48.8,OCaml,PHP
+42.6,OCaml,Objective-C
+38.4,OCaml,C#
+37.7,OCaml,Emacs Lisp
+34.0,OCaml,VimL
+33.3,OCaml,Haskell
+29.6,OCaml,Assembly
+25.8,OCaml,Scala
+24.6,OCaml,D
+24.4,OCaml,Lua
+23.8,OCaml,Erlang
+22.7,OCaml,Scheme
+20.5,OCaml,Delphi
+19.7,OCaml,Common Lisp
+18.9,OCaml,FORTRAN
+18.0,OCaml,Clojure
+17.7,OCaml,CoffeeScript
+17.4,OCaml,R
+16.2,OCaml,Tcl
+15.2,OCaml,Go
+14.6,OCaml,Visual Basic
+14.2,OCaml,Prolog
+13.6,OCaml,Rust
+13.5,OCaml,Groovy
+12.4,OCaml,ActionScript
+12.0,OCaml,Smalltalk
+11.2,OCaml,Matlab
+10.6,OCaml,ASP
+9.8,OCaml,Ada
+8.3,OCaml,Verilog
+8.0,OCaml,Boo
+7.7,OCaml,ColdFusion
+7.6,OCaml,HaXe
+7.3,OCaml,SuperCollider
+6.7,OCaml,Nu
+5.9,OCaml,F#
+5.8,OCaml,Racket
+5.8,OCaml,VHDL
+5.6,OCaml,Standard ML
+5.6,OCaml,Vala
+5.6,OCaml,Eiffel
+5.2,OCaml,Nemerle
+4.6,OCaml,Objective-J
+4.4,OCaml,XQuery
+4.1,OCaml,Rebol
+3.8,OCaml,Ioke
+3.8,OCaml,AutoHotkey
+3.2,OCaml,Gosu
+3.1,OCaml,Turing
+2.8,OCaml,Parrot
+2.3,OCaml,Arduino
+2.2,OCaml,Io
+2.2,OCaml,Factor
+1.8,OCaml,Nimrod
+1.6,OCaml,Puppet
+1.4,OCaml,Pure Data
+1.4,OCaml,Dylan
+1.3,OCaml,Modelica
+1.2,OCaml,Mirah
+1.2,OCaml,ooc
+1.1,OCaml,Opa
+1.1,OCaml,Self
+1.0,OCaml,Arc
+0.2,OCaml,Fancy
+0.1,OCaml,Fantom
+75.7,Objective-C,C
+59.0,Objective-C,Shell
+49.4,Objective-C,JavaScript
+47.7,Objective-C,Python
+45.7,Objective-C,C++
+37.3,Objective-C,Ruby
+32.5,Objective-C,Perl
+31.0,Objective-C,Java
+23.5,Objective-C,PHP
+18.1,Objective-C,VimL
+17.3,Objective-C,Assembly
+13.4,Objective-C,C#
+12.3,Objective-C,Emacs Lisp
+9.2,Objective-C,Rust
+9.0,Objective-C,ASP
+7.7,Objective-C,CoffeeScript
+7.7,Objective-C,D
+7.1,Objective-C,SuperCollider
+6.7,Objective-C,Prolog
+6.6,Objective-C,Lua
+6.2,Objective-C,ActionScript
+5.5,Objective-C,Matlab
+5.4,Objective-C,R
+5.0,Objective-C,Tcl
+4.9,Objective-C,Visual Basic
+4.8,Objective-C,Haskell
+4.6,Objective-C,Delphi
+4.3,Objective-C,Scheme
+3.8,Objective-C,Scala
+3.5,Objective-C,FORTRAN
+3.4,Objective-C,Erlang
+3.1,Objective-C,Clojure
+2.9,Objective-C,Ada
+2.9,Objective-C,OCaml
+2.6,Objective-C,Smalltalk
+2.5,Objective-C,Groovy
+2.4,Objective-C,Common Lisp
+2.0,Objective-C,Verilog
+1.9,Objective-C,Go
+1.3,Objective-C,HaXe
+1.3,Objective-C,Objective-J
+1.1,Objective-C,F#
+0.8,Objective-C,Racket
+0.8,Objective-C,VHDL
+0.8,Objective-C,Io
+0.7,Objective-C,ColdFusion
+0.7,Objective-C,Nu
+0.7,Objective-C,Vala
+0.6,Objective-C,Eiffel
+0.6,Objective-C,Modelica
+0.5,Objective-C,Boo
+0.5,Objective-C,Arduino
+0.5,Objective-C,Standard ML
+0.5,Objective-C,Nemerle
+0.5,Objective-C,XQuery
+0.5,Objective-C,Pure Data
+0.4,Objective-C,Rebol
+0.4,Objective-C,Gosu
+0.4,Objective-C,Puppet
+0.4,Objective-C,Turing
+0.3,Objective-C,AutoHotkey
+0.3,Objective-C,Ioke
+0.3,Objective-C,Parrot
+0.3,Objective-C,Factor
+0.2,Objective-C,ooc
+0.2,Objective-C,Self
+0.1,Objective-C,Nimrod
+0.1,Objective-C,Arc
+0.1,Objective-C,Mirah
+0.1,Objective-C,Dylan
+0.1,Objective-C,Opa
+86.6,Objective-J,JavaScript
+81.8,Objective-J,Shell
+72.3,Objective-J,C
+64.3,Objective-J,Python
+61.8,Objective-J,Ruby
+51.0,Objective-J,C++
+50.9,Objective-J,Objective-C
+49.9,Objective-J,Java
+44.6,Objective-J,Perl
+43.6,Objective-J,VimL
+42.5,Objective-J,Emacs Lisp
+35.7,Objective-J,PHP
+34.9,Objective-J,Assembly
+26.1,Objective-J,C#
+22.5,Objective-J,R
+20.3,Objective-J,Scheme
+18.5,Objective-J,Haskell
+18.4,Objective-J,D
+16.4,Objective-J,Scala
+16.1,Objective-J,CoffeeScript
+15.8,Objective-J,Lua
+15.3,Objective-J,ASP
+15.1,Objective-J,FORTRAN
+13.8,Objective-J,Delphi
+13.8,Objective-J,Rust
+13.7,Objective-J,Erlang
+13.5,Objective-J,ActionScript
+13.2,Objective-J,Prolog
+13.0,Objective-J,Clojure
+13.0,Objective-J,Visual Basic
+12.2,Objective-J,OCaml
+11.6,Objective-J,Smalltalk
+11.4,Objective-J,Groovy
+11.4,Objective-J,Common Lisp
+11.3,Objective-J,HaXe
+10.3,Objective-J,Tcl
+9.3,Objective-J,Ada
+9.0,Objective-J,Matlab
+9.0,Objective-J,Boo
+6.6,Objective-J,VHDL
+6.6,Objective-J,Vala
+6.1,Objective-J,SuperCollider
+6.0,Objective-J,Eiffel
+5.3,Objective-J,Go
+5.2,Objective-J,ColdFusion
+5.0,Objective-J,Racket
+5.0,Objective-J,F#
+4.8,Objective-J,Factor
+4.0,Objective-J,Rebol
+3.9,Objective-J,Nemerle
+3.7,Objective-J,Dylan
+3.5,Objective-J,XQuery
+3.5,Objective-J,Nu
+2.7,Objective-J,Ioke
+2.4,Objective-J,AutoHotkey
+2.4,Objective-J,Turing
+1.9,Objective-J,ooc
+1.9,Objective-J,Modelica
+1.8,Objective-J,Verilog
+1.3,Objective-J,Puppet
+1.1,Objective-J,Nimrod
+1.1,Objective-J,Io
+1.0,Objective-J,Self
+1.0,Objective-J,Standard ML
+0.8,Objective-J,Gosu
+0.6,Objective-J,Parrot
+0.5,Objective-J,Fancy
+0.5,Objective-J,Arc
+0.3,Objective-J,Pure Data
+0.2,Objective-J,Opa
+0.2,Objective-J,Arduino
+0.2,Objective-J,Fantom
+0.2,Objective-J,Mirah
+89.7,Opa,JavaScript
+82.8,Opa,Shell
+75.9,Opa,C
+75.9,Opa,Python
+69.0,Opa,Perl
+65.5,Opa,Standard ML
+65.5,Opa,C++
+65.5,Opa,SuperCollider
+65.5,Opa,VimL
+65.5,Opa,OCaml
+65.5,Opa,Assembly
+65.5,Opa,Objective-C
+65.5,Opa,Ruby
+62.1,Opa,PHP
+62.1,Opa,Emacs Lisp
+55.2,Opa,Scheme
+55.2,Opa,Rust
+51.7,Opa,XQuery
+51.7,Opa,Groovy
+51.7,Opa,Delphi
+51.7,Opa,Matlab
+51.7,Opa,Scala
+51.7,Opa,Rebol
+51.7,Opa,Gosu
+51.7,Opa,Parrot
+51.7,Opa,R
+51.7,Opa,Prolog
+51.7,Opa,Nimrod
+51.7,Opa,Nu
+51.7,Opa,Racket
+51.7,Opa,CoffeeScript
+51.7,Opa,Ioke
+51.7,Opa,Arduino
+51.7,Opa,Nemerle
+51.7,Opa,Turing
+51.7,Opa,AutoHotkey
+20.7,Opa,Java
+20.7,Opa,Tcl
+17.2,Opa,C#
+13.8,Opa,D
+13.8,Opa,Modelica
+10.3,Opa,FORTRAN
+10.3,Opa,Haskell
+10.3,Opa,Erlang
+6.9,Opa,Smalltalk
+6.9,Opa,Visual Basic
+6.9,Opa,Eiffel
+6.9,Opa,ASP
+6.9,Opa,Lua
+3.4,Opa,Puppet
+3.4,Opa,VHDL
+3.4,Opa,F#
+3.4,Opa,Boo
+3.4,Opa,Dylan
+3.4,Opa,Factor
+3.4,Opa,Verilog
+3.4,Opa,HaXe
+3.4,Opa,Objective-J
+3.4,Opa,Common Lisp
+3.4,Opa,Vala
+3.4,Opa,ActionScript
+3.4,Opa,Arc
+3.4,Opa,Clojure
+3.4,Opa,Ada
+72.9,PHP,JavaScript
+44.7,PHP,Shell
+30.0,PHP,Python
+28.0,PHP,Ruby
+23.7,PHP,C
+19.9,PHP,Java
+18.8,PHP,Perl
+15.8,PHP,C++
+9.2,PHP,Objective-C
+8.9,PHP,VimL
+7.6,PHP,C#
+6.8,PHP,CoffeeScript
+5.8,PHP,ActionScript
+5.0,PHP,Emacs Lisp
+4.9,PHP,ASP
+3.8,PHP,D
+3.8,PHP,Assembly
+3.1,PHP,Lua
+2.8,PHP,Rust
+2.6,PHP,Prolog
+2.5,PHP,Haskell
+2.4,PHP,Visual Basic
+2.3,PHP,Scala
+2.3,PHP,R
+2.2,PHP,Scheme
+2.0,PHP,Groovy
+2.0,PHP,Erlang
+1.8,PHP,Tcl
+1.7,PHP,Delphi
+1.6,PHP,ColdFusion
+1.6,PHP,Clojure
+1.6,PHP,Modelica
+1.4,PHP,Common Lisp
+1.3,PHP,OCaml
+1.2,PHP,Go
+1.0,PHP,FORTRAN
+0.9,PHP,Smalltalk
+0.8,PHP,Matlab
+0.7,PHP,Ada
+0.6,PHP,SuperCollider
+0.5,PHP,Puppet
+0.5,PHP,F#
+0.5,PHP,HaXe
+0.4,PHP,Verilog
+0.4,PHP,Racket
+0.4,PHP,Vala
+0.4,PHP,Objective-J
+0.4,PHP,XQuery
+0.3,PHP,VHDL
+0.3,PHP,Arduino
+0.3,PHP,Boo
+0.3,PHP,Io
+0.3,PHP,Gosu
+0.2,PHP,Nu
+0.2,PHP,Standard ML
+0.2,PHP,Eiffel
+0.2,PHP,Nemerle
+0.2,PHP,Rebol
+0.2,PHP,AutoHotkey
+0.2,PHP,Parrot
+0.1,PHP,Turing
+0.1,PHP,Ioke
+0.1,PHP,Pure Data
+0.1,PHP,Factor
+0.1,PHP,ooc
+0.1,PHP,Self
+0.1,PHP,Arc
+90.0,Parrot,C
+87.9,Parrot,Perl
+84.7,Parrot,Shell
+77.4,Parrot,Python
+71.1,Parrot,JavaScript
+70.0,Parrot,Ruby
+57.9,Parrot,C++
+55.8,Parrot,VimL
+52.1,Parrot,PHP
+51.1,Parrot,Emacs Lisp
+46.8,Parrot,Assembly
+46.3,Parrot,Prolog
+40.0,Parrot,Nu
+36.8,Parrot,Objective-C
+35.8,Parrot,R
+33.7,Parrot,Rust
+32.6,Parrot,Scala
+32.6,Parrot,Java
+32.1,Parrot,CoffeeScript
+30.5,Parrot,Groovy
+30.0,Parrot,Matlab
+29.5,Parrot,Delphi
+28.9,Parrot,Turing
+27.9,Parrot,Racket
+27.9,Parrot,Scheme
+27.9,Parrot,Rebol
+27.9,Parrot,Nemerle
+26.8,Parrot,Gosu
+26.3,Parrot,Ioke
+25.3,Parrot,XQuery
+24.7,Parrot,OCaml
+24.7,Parrot,FORTRAN
+24.2,Parrot,C#
+24.2,Parrot,SuperCollider
+23.7,Parrot,Standard ML
+23.2,Parrot,AutoHotkey
+18.4,Parrot,Visual Basic
+17.9,Parrot,Arduino
+13.7,Parrot,Lua
+13.2,Parrot,Common Lisp
+12.1,Parrot,Nimrod
+11.1,Parrot,Tcl
+10.5,Parrot,Haskell
+8.9,Parrot,D
+7.9,Parrot,Opa
+5.8,Parrot,ASP
+5.8,Parrot,ActionScript
+5.8,Parrot,Erlang
+5.3,Parrot,Clojure
+4.7,Parrot,Go
+4.2,Parrot,Ada
+3.7,Parrot,Modelica
+3.7,Parrot,Vala
+3.2,Parrot,Smalltalk
+3.2,Parrot,F#
+2.6,Parrot,Self
+2.6,Parrot,Eiffel
+2.6,Parrot,Verilog
+2.6,Parrot,Puppet
+2.6,Parrot,HaXe
+2.1,Parrot,VHDL
+2.1,Parrot,Boo
+2.1,Parrot,Objective-J
+2.1,Parrot,Factor
+1.6,Parrot,ooc
+1.6,Parrot,Io
+1.1,Parrot,Dylan
+1.1,Parrot,Fantom
+1.1,Parrot,ColdFusion
+0.5,Parrot,Arc
+80.0,Perl,Shell
+61.8,Perl,C
+61.6,Perl,Python
+60.7,Perl,JavaScript
+45.4,Perl,C++
+40.9,Perl,Ruby
+36.4,Perl,PHP
+34.0,Perl,Java
+24.7,Perl,Objective-C
+22.7,Perl,VimL
+18.7,Perl,Assembly
+16.6,Perl,Emacs Lisp
+14.6,Perl,C#
+10.5,Perl,D
+10.4,Perl,Rust
+10.1,Perl,ASP
+7.8,Perl,Lua
+7.5,Perl,Prolog
+7.2,Perl,CoffeeScript
+6.8,Perl,Tcl
+6.6,Perl,Haskell
+6.5,Perl,R
+6.4,Perl,Visual Basic
+6.3,Perl,ActionScript
+6.3,Perl,Scheme
+5.6,Perl,SuperCollider
+5.1,Perl,Erlang
+4.4,Perl,Scala
+4.2,Perl,Delphi
+3.7,Perl,Groovy
+3.4,Perl,Common Lisp
+3.3,Perl,Clojure
+3.3,Perl,FORTRAN
+3.3,Perl,OCaml
+2.6,Perl,ColdFusion
+2.5,Perl,Matlab
+2.5,Perl,Ada
+2.3,Perl,Go
+2.3,Perl,Smalltalk
+2.1,Perl,Verilog
+1.3,Perl,F#
+1.1,Perl,HaXe
+1.0,Perl,Puppet
+0.9,Perl,Racket
+0.9,Perl,Modelica
+0.9,Perl,Objective-J
+0.9,Perl,Vala
+0.8,Perl,VHDL
+0.7,Perl,Boo
+0.7,Perl,Eiffel
+0.6,Perl,XQuery
+0.6,Perl,Nemerle
+0.6,Perl,Standard ML
+0.6,Perl,Turing
+0.6,Perl,Io
+0.5,Perl,Arduino
+0.5,Perl,Nu
+0.5,Perl,Parrot
+0.4,Perl,Gosu
+0.4,Perl,Rebol
+0.3,Perl,AutoHotkey
+0.3,Perl,Pure Data
+0.3,Perl,Self
+0.2,Perl,Ioke
+0.2,Perl,Factor
+0.2,Perl,Arc
+0.2,Perl,ooc
+0.1,Perl,Mirah
+0.1,Perl,Nimrod
+0.1,Perl,Dylan
+0.1,Perl,Opa
+0.1,Perl,Fancy
+87.6,Prolog,C++
+80.9,Prolog,C
+72.0,Prolog,Shell
+56.3,Prolog,Python
+51.0,Prolog,JavaScript
+42.9,Prolog,Perl
+37.7,Prolog,Java
+33.9,Prolog,Ruby
+29.1,Prolog,PHP
+29.1,Prolog,Objective-C
+26.8,Prolog,Assembly
+24.4,Prolog,Rust
+21.5,Prolog,Emacs Lisp
+20.8,Prolog,VimL
+19.3,Prolog,C#
+15.4,Prolog,D
+13.1,Prolog,Tcl
+11.1,Prolog,Delphi
+10.2,Prolog,Visual Basic
+9.5,Prolog,Lua
+8.9,Prolog,Scheme
+8.0,Prolog,R
+7.8,Prolog,ActionScript
+7.4,Prolog,CoffeeScript
+7.2,Prolog,Haskell
+7.1,Prolog,Ada
+5.6,Prolog,Verilog
+5.4,Prolog,Matlab
+5.2,Prolog,Scala
+5.1,Prolog,FORTRAN
+4.5,Prolog,Erlang
+4.4,Prolog,ASP
+4.3,Prolog,SuperCollider
+4.2,Prolog,OCaml
+4.2,Prolog,Common Lisp
+3.4,Prolog,Smalltalk
+3.3,Prolog,Groovy
+3.2,Prolog,Clojure
+2.1,Prolog,Go
+2.0,Prolog,F#
+1.9,Prolog,XQuery
+1.8,Prolog,Nu
+1.8,Prolog,Racket
+1.8,Prolog,Rebol
+1.7,Prolog,Nemerle
+1.7,Prolog,Io
+1.5,Prolog,Parrot
+1.5,Prolog,HaXe
+1.5,Prolog,VHDL
+1.5,Prolog,Standard ML
+1.4,Prolog,Objective-J
+1.4,Prolog,Turing
+1.3,Prolog,Arduino
+1.3,Prolog,Gosu
+1.2,Prolog,Ioke
+1.2,Prolog,Vala
+1.2,Prolog,Eiffel
+1.1,Prolog,AutoHotkey
+1.0,Prolog,Modelica
+0.9,Prolog,Self
+0.8,Prolog,Puppet
+0.8,Prolog,Boo
+0.8,Prolog,ColdFusion
+0.7,Prolog,Pure Data
+0.5,Prolog,Factor
+0.5,Prolog,Nimrod
+0.4,Prolog,ooc
+0.4,Prolog,Dylan
+0.3,Prolog,Arc
+0.3,Prolog,Opa
+0.1,Prolog,Mirah
+0.1,Prolog,Fancy
+86.2,Puppet,Shell
+73.3,Puppet,JavaScript
+64.8,Puppet,Ruby
+53.6,Puppet,Python
+44.7,Puppet,C
+38.3,Puppet,PHP
+37.8,Puppet,Perl
+32.6,Puppet,VimL
+25.7,Puppet,Emacs Lisp
+25.2,Puppet,Java
+24.2,Puppet,C#
+23.7,Puppet,C++
+19.7,Puppet,ASP
+13.1,Puppet,Assembly
+10.9,Puppet,CoffeeScript
+10.7,Puppet,D
+10.1,Puppet,Rust
+10.0,Puppet,Objective-C
+7.8,Puppet,Haskell
+7.3,Puppet,Modelica
+6.3,Puppet,Visual Basic
+5.2,Puppet,Prolog
+5.2,Puppet,Lua
+4.7,Puppet,Groovy
+4.5,Puppet,Erlang
+4.3,Puppet,Scheme
+4.0,Puppet,ActionScript
+4.0,Puppet,Scala
+3.9,Puppet,Clojure
+3.9,Puppet,R
+3.8,Puppet,Tcl
+3.3,Puppet,Delphi
+2.9,Puppet,OCaml
+2.9,Puppet,FORTRAN
+2.4,Puppet,F#
+2.2,Puppet,Common Lisp
+1.7,Puppet,Smalltalk
+1.7,Puppet,Go
+1.7,Puppet,Boo
+1.6,Puppet,Self
+1.5,Puppet,Verilog
+1.2,Puppet,SuperCollider
+1.1,Puppet,Ada
+1.1,Puppet,XQuery
+1.1,Puppet,Matlab
+1.0,Puppet,HaXe
+1.0,Puppet,Io
+1.0,Puppet,AutoHotkey
+1.0,Puppet,ColdFusion
+0.9,Puppet,Standard ML
+0.9,Puppet,Racket
+0.9,Puppet,Objective-J
+0.7,Puppet,Rebol
+0.7,Puppet,VHDL
+0.6,Puppet,Eiffel
+0.6,Puppet,Parrot
+0.4,Puppet,Factor
+0.4,Puppet,Turing
+0.4,Puppet,ooc
+0.4,Puppet,Vala
+0.3,Puppet,Arc
+0.2,Puppet,Dylan
+0.2,Puppet,Gosu
+0.2,Puppet,Nemerle
+0.2,Puppet,Nu
+0.1,Puppet,Opa
+0.1,Puppet,Mirah
+0.1,Puppet,Arduino
+0.1,Puppet,Fantom
+0.1,Puppet,Ioke
+72.0,Pure Data,C
+67.3,Pure Data,Shell
+62.3,Pure Data,C++
+56.7,Pure Data,Python
+54.3,Pure Data,Java
+49.0,Pure Data,JavaScript
+38.7,Pure Data,Objective-C
+32.3,Pure Data,Perl
+26.7,Pure Data,PHP
+26.3,Pure Data,Ruby
+20.7,Pure Data,SuperCollider
+18.0,Pure Data,Emacs Lisp
+18.0,Pure Data,D
+16.0,Pure Data,R
+15.7,Pure Data,Assembly
+15.3,Pure Data,C#
+15.3,Pure Data,Scheme
+13.7,Pure Data,Prolog
+13.0,Pure Data,Matlab
+12.3,Pure Data,Lua
+12.3,Pure Data,Rust
+12.0,Pure Data,Tcl
+11.7,Pure Data,Eiffel
+11.3,Pure Data,VimL
+10.3,Pure Data,Haskell
+10.0,Pure Data,FORTRAN
+9.3,Pure Data,Delphi
+9.0,Pure Data,Ada
+9.0,Pure Data,CoffeeScript
+8.0,Pure Data,OCaml
+6.0,Pure Data,ActionScript
+4.7,Pure Data,Common Lisp
+4.7,Pure Data,ASP
+3.3,Pure Data,Visual Basic
+3.0,Pure Data,Nemerle
+3.0,Pure Data,Clojure
+2.7,Pure Data,Scala
+2.7,Pure Data,Verilog
+2.3,Pure Data,Groovy
+2.3,Pure Data,Erlang
+2.3,Pure Data,Arduino
+2.0,Pure Data,Go
+1.7,Pure Data,HaXe
+1.3,Pure Data,Modelica
+1.3,Pure Data,Io
+1.3,Pure Data,Arc
+1.0,Pure Data,Turing
+1.0,Pure Data,Smalltalk
+0.7,Pure Data,ColdFusion
+0.7,Pure Data,Racket
+0.7,Pure Data,F#
+0.7,Pure Data,Max/MSP
+0.7,Pure Data,Objective-J
+0.3,Pure Data,XQuery
+0.3,Pure Data,Nu
+0.3,Pure Data,Boo
+0.3,Pure Data,Gosu
+0.3,Pure Data,VHDL
+0.3,Pure Data,Factor
+60.8,Python,Shell
+54.8,Python,JavaScript
+43.4,Python,C
+30.6,Python,C++
+30.6,Python,Ruby
+27.2,Python,Java
+26.3,Python,Perl
+24.8,Python,PHP
+16.3,Python,VimL
+15.5,Python,Objective-C
+9.3,Python,Emacs Lisp
+9.2,Python,C#
+8.9,Python,Assembly
+6.4,Python,CoffeeScript
+5.5,Python,D
+5.4,Python,Rust
+4.9,Python,ASP
+4.7,Python,Lua
+4.3,Python,Haskell
+4.2,Python,Prolog
+4.2,Python,ActionScript
+3.8,Python,R
+3.6,Python,Scala
+3.5,Python,Scheme
+3.4,Python,Visual Basic
+3.3,Python,Tcl
+3.0,Python,Erlang
+2.6,Python,Clojure
+2.5,Python,Groovy
+2.5,Python,SuperCollider
+2.1,Python,Delphi
+2.0,Python,Matlab
+2.0,Python,Common Lisp
+1.9,Python,FORTRAN
+1.7,Python,Go
+1.6,Python,OCaml
+1.1,Python,Modelica
+1.1,Python,Smalltalk
+1.1,Python,Ada
+1.0,Python,ColdFusion
+1.0,Python,Verilog
+0.8,Python,F#
+0.6,Python,Puppet
+0.6,Python,HaXe
+0.5,Python,Objective-J
+0.5,Python,Vala
+0.5,Python,Racket
+0.5,Python,VHDL
+0.4,Python,Boo
+0.4,Python,Arduino
+0.4,Python,Io
+0.3,Python,Standard ML
+0.3,Python,Nu
+0.3,Python,Eiffel
+0.3,Python,XQuery
+0.3,Python,Nemerle
+0.2,Python,Gosu
+0.2,Python,Pure Data
+0.2,Python,Parrot
+0.2,Python,Turing
+0.2,Python,AutoHotkey
+0.2,Python,Rebol
+0.2,Python,Ioke
+0.1,Python,ooc
+0.1,Python,Factor
+0.1,Python,Arc
+0.1,Python,Self
+0.1,Python,Mirah
+0.1,Python,Fancy
+77.0,R,Shell
+72.5,R,Python
+71.3,R,C
+62.9,R,C++
+52.8,R,Perl
+51.1,R,JavaScript
+40.4,R,Ruby
+36.1,R,PHP
+34.6,R,Java
+33.2,R,Objective-C
+31.0,R,D
+27.7,R,C#
+22.9,R,Assembly
+20.5,R,Emacs Lisp
+18.2,R,VimL
+18.0,R,Rust
+13.5,R,Scheme
+11.5,R,Prolog
+11.3,R,Lua
+11.0,R,Tcl
+10.7,R,FORTRAN
+9.4,R,CoffeeScript
+9.2,R,Haskell
+9.2,R,Matlab
+9.1,R,Delphi
+8.4,R,Scala
+7.2,R,OCaml
+6.9,R,Common Lisp
+6.6,R,Visual Basic
+6.4,R,Erlang
+6.3,R,ActionScript
+6.1,R,ASP
+5.6,R,Clojure
+5.3,R,Groovy
+5.1,R,SuperCollider
+5.0,R,Ada
+4.7,R,Smalltalk
+3.5,R,Objective-J
+3.4,R,Nemerle
+3.4,R,Go
+3.1,R,Vala
+3.0,R,Racket
+2.8,R,Nu
+2.8,R,HaXe
+2.8,R,Boo
+2.6,R,VHDL
+2.2,R,Eiffel
+2.2,R,XQuery
+2.2,R,Rebol
+2.0,R,F#
+1.8,R,Turing
+1.7,R,Parrot
+1.7,R,Ioke
+1.7,R,ColdFusion
+1.7,R,Gosu
+1.6,R,AutoHotkey
+1.6,R,Standard ML
+1.5,R,Io
+1.4,R,Verilog
+1.3,R,Modelica
+1.2,R,Pure Data
+1.2,R,Arduino
+0.9,R,Puppet
+0.8,R,Factor
+0.8,R,Nimrod
+0.6,R,Dylan
+0.5,R,Self
+0.5,R,ooc
+0.4,R,Arc
+0.4,R,Opa
+0.1,R,Fancy
+0.1,R,Mirah
+0.1,R,Fantom
+71.8,Racket,JavaScript
+71.5,Racket,Shell
+68.5,Racket,C
+65.8,Racket,Python
+59.8,Racket,Ruby
+54.7,Racket,C++
+54.5,Racket,Perl
+47.5,Racket,Java
+44.9,Racket,PHP
+41.6,Racket,Scheme
+36.9,Racket,Objective-C
+36.2,Racket,Scala
+34.0,Racket,Haskell
+31.8,Racket,Emacs Lisp
+31.3,Racket,C#
+29.8,Racket,VimL
+28.9,Racket,Common Lisp
+28.4,Racket,Assembly
+26.9,Racket,Lua
+26.5,Racket,CoffeeScript
+24.4,Racket,Clojure
+21.8,Racket,R
+21.5,Racket,Go
+19.1,Racket,Groovy
+18.9,Racket,Prolog
+17.6,Racket,OCaml
+17.5,Racket,Rust
+16.7,Racket,Ada
+16.5,Racket,Erlang
+15.8,Racket,Delphi
+15.6,Racket,Matlab
+15.5,Racket,HaXe
+14.9,Racket,Nu
+13.5,Racket,F#
+12.9,Racket,Rebol
+11.5,Racket,Nemerle
+11.5,Racket,Visual Basic
+11.5,Racket,Ioke
+11.3,Racket,XQuery
+10.7,Racket,D
+10.0,Racket,AutoHotkey
+9.8,Racket,ActionScript
+9.8,Racket,Tcl
+9.6,Racket,Parrot
+9.5,Racket,SuperCollider
+9.3,Racket,Gosu
+8.7,Racket,Standard ML
+7.5,Racket,FORTRAN
+7.3,Racket,ASP
+6.5,Racket,Arduino
+6.2,Racket,Turing
+5.6,Racket,Objective-J
+5.5,Racket,Vala
+5.1,Racket,Nimrod
+4.7,Racket,Boo
+4.5,Racket,VHDL
+4.4,Racket,Smalltalk
+3.6,Racket,Factor
+3.5,Racket,ooc
+3.1,Racket,Eiffel
+2.7,Racket,ColdFusion
+2.7,Racket,Opa
+2.4,Racket,Verilog
+2.4,Racket,Io
+2.2,Racket,Dylan
+1.6,Racket,Arc
+1.5,Racket,Puppet
+1.3,Racket,Modelica
+0.9,Racket,Self
+0.5,Racket,Fancy
+0.4,Racket,Fantom
+0.4,Racket,Pure Data
+0.4,Racket,Mirah
+95.2,Rebol,Shell
+93.2,Rebol,C
+92.5,Rebol,Ruby
+91.8,Rebol,Python
+89.7,Rebol,C++
+88.4,Rebol,JavaScript
+78.8,Rebol,Perl
+76.7,Rebol,Emacs Lisp
+76.7,Rebol,Assembly
+76.0,Rebol,PHP
+74.7,Rebol,Objective-C
+74.7,Rebol,VimL
+69.2,Rebol,Prolog
+65.1,Rebol,Scala
+62.3,Rebol,Rust
+60.3,Rebol,Java
+58.9,Rebol,R
+58.2,Rebol,Scheme
+57.5,Rebol,CoffeeScript
+51.4,Rebol,Groovy
+50.7,Rebol,Delphi
+48.6,Rebol,Racket
+47.3,Rebol,OCaml
+46.6,Rebol,Matlab
+42.5,Rebol,XQuery
+40.4,Rebol,Ioke
+40.4,Rebol,Nu
+37.7,Rebol,Nemerle
+37.0,Rebol,Haskell
+36.3,Rebol,Gosu
+36.3,Rebol,Parrot
+35.6,Rebol,AutoHotkey
+34.9,Rebol,Standard ML
+34.2,Rebol,Lua
+32.2,Rebol,Common Lisp
+32.2,Rebol,C#
+30.8,Rebol,Visual Basic
+30.8,Rebol,SuperCollider
+27.4,Rebol,D
+26.0,Rebol,Tcl
+24.7,Rebol,Smalltalk
+22.6,Rebol,Clojure
+22.6,Rebol,Erlang
+22.6,Rebol,FORTRAN
+22.6,Rebol,Arduino
+21.9,Rebol,Turing
+21.9,Rebol,ActionScript
+21.9,Rebol,Io
+18.5,Rebol,ASP
+17.1,Rebol,Nimrod
+17.1,Rebol,Objective-J
+15.8,Rebol,Boo
+15.8,Rebol,HaXe
+15.8,Rebol,Factor
+15.1,Rebol,Ada
+13.7,Rebol,Vala
+13.0,Rebol,Dylan
+10.3,Rebol,F#
+10.3,Rebol,VHDL
+10.3,Rebol,Opa
+9.6,Rebol,Go
+8.9,Rebol,Eiffel
+8.2,Rebol,ColdFusion
+4.1,Rebol,Puppet
+4.1,Rebol,Modelica
+4.1,Rebol,ooc
+4.1,Rebol,Self
+2.1,Rebol,Verilog
+1.4,Rebol,Fancy
+1.4,Rebol,Arc
+0.7,Rebol,Mirah
+0.7,Rebol,Fantom
+81.1,Ruby,JavaScript
+37.1,Ruby,Shell
+24.7,Ruby,Python
+22.9,Ruby,C
+18.7,Ruby,PHP
+18.1,Ruby,Java
+17.7,Ruby,CoffeeScript
+14.1,Ruby,Perl
+13.4,Ruby,C++
+12.0,Ruby,VimL
+9.8,Ruby,Objective-C
+7.2,Ruby,C#
+6.2,Ruby,Emacs Lisp
+3.3,Ruby,ActionScript
+3.2,Ruby,ASP
+3.1,Ruby,Assembly
+2.8,Ruby,Scala
+2.7,Ruby,D
+2.7,Ruby,Lua
+2.6,Ruby,Haskell
+2.4,Ruby,Clojure
+2.4,Ruby,Visual Basic
+2.3,Ruby,Scheme
+2.2,Ruby,Groovy
+2.2,Ruby,Erlang
+2.1,Ruby,Prolog
+2.0,Ruby,Rust
+1.8,Ruby,Tcl
+1.7,Ruby,R
+1.3,Ruby,Common Lisp
+1.2,Ruby,Delphi
+1.1,Ruby,Go
+0.9,Ruby,OCaml
+0.8,Ruby,Smalltalk
+0.7,Ruby,FORTRAN
+0.6,Ruby,Matlab
+0.6,Ruby,Puppet
+0.6,Ruby,Ada
+0.6,Ruby,ColdFusion
+0.5,Ruby,Verilog
+0.5,Ruby,F#
+0.4,Ruby,Modelica
+0.4,Ruby,Objective-J
+0.4,Ruby,SuperCollider
+0.4,Ruby,Io
+0.3,Ruby,Racket
+0.3,Ruby,HaXe
+0.3,Ruby,Boo
+0.2,Ruby,Vala
+0.2,Ruby,XQuery
+0.2,Ruby,VHDL
+0.2,Ruby,Gosu
+0.2,Ruby,Nu
+0.2,Ruby,Arduino
+0.2,Ruby,Standard ML
+0.2,Ruby,Eiffel
+0.1,Ruby,Rebol
+0.1,Ruby,Parrot
+0.1,Ruby,AutoHotkey
+0.1,Ruby,Turing
+0.1,Ruby,Ioke
+0.1,Ruby,Nemerle
+0.1,Ruby,Factor
+0.1,Ruby,Pure Data
+0.1,Ruby,ooc
+0.1,Ruby,Mirah
+0.1,Ruby,Arc
+0.1,Ruby,Self
+90.7,Rust,C
+87.0,Rust,Shell
+84.0,Rust,C++
+68.3,Rust,Python
+56.3,Rust,Perl
+54.0,Rust,JavaScript
+40.4,Rust,Java
+39.7,Rust,Assembly
+37.6,Rust,Objective-C
+31.1,Rust,Ruby
+30.1,Rust,C#
+29.8,Rust,PHP
+23.2,Rust,Prolog
+22.6,Rust,VimL
+20.6,Rust,Emacs Lisp
+19.8,Rust,D
+12.9,Rust,Visual Basic
+12.8,Rust,Lua
+12.0,Rust,R
+11.4,Rust,ASP
+11.2,Rust,Delphi
+10.0,Rust,Tcl
+8.7,Rust,SuperCollider
+7.1,Rust,Scheme
+6.7,Rust,ActionScript
+6.6,Rust,Ada
+6.0,Rust,Haskell
+5.8,Rust,CoffeeScript
+4.4,Rust,FORTRAN
+4.1,Rust,Matlab
+4.0,Rust,Erlang
+3.8,Rust,Smalltalk
+3.8,Rust,OCaml
+3.5,Rust,Scala
+3.3,Rust,Verilog
+3.0,Rust,Common Lisp
+3.0,Rust,Groovy
+2.8,Rust,Nemerle
+2.8,Rust,F#
+2.1,Rust,Go
+2.0,Rust,HaXe
+1.7,Rust,Clojure
+1.7,Rust,Standard ML
+1.6,Rust,Racket
+1.5,Rust,Rebol
+1.5,Rust,Puppet
+1.4,Rust,Objective-J
+1.4,Rust,XQuery
+1.3,Rust,Vala
+1.2,Rust,Gosu
+1.2,Rust,Turing
+1.2,Rust,AutoHotkey
+1.1,Rust,Nu
+1.1,Rust,Parrot
+1.0,Rust,Eiffel
+1.0,Rust,Arduino
+0.9,Rust,Ioke
+0.9,Rust,Io
+0.9,Rust,VHDL
+0.8,Rust,Self
+0.7,Rust,Boo
+0.7,Rust,Modelica
+0.6,Rust,Pure Data
+0.6,Rust,ColdFusion
+0.5,Rust,Factor
+0.4,Rust,Nimrod
+0.3,Rust,Opa
+0.2,Rust,ooc
+0.2,Rust,Arc
+0.2,Rust,Dylan
+0.1,Rust,Mirah
+68.9,Scala,Java
+63.1,Scala,Shell
+62.3,Scala,JavaScript
+45.4,Scala,Python
+43.4,Scala,Ruby
+36.5,Scala,C
+27.6,Scala,C++
+24.3,Scala,PHP
+23.6,Scala,Perl
+18.2,Scala,Groovy
+15.6,Scala,Objective-C
+14.7,Scala,Clojure
+14.4,Scala,VimL
+14.0,Scala,C#
+13.8,Scala,CoffeeScript
+13.3,Scala,Haskell
+11.1,Scala,Emacs Lisp
+9.4,Scala,Erlang
+7.5,Scala,Lua
+7.1,Scala,OCaml
+6.7,Scala,Common Lisp
+6.4,Scala,Scheme
+6.3,Scala,ActionScript
+6.1,Scala,Go
+6.1,Scala,Assembly
+5.5,Scala,R
+5.4,Scala,D
+5.4,Scala,Visual Basic
+4.9,Scala,Delphi
+4.9,Scala,Prolog
+3.5,Scala,Rust
+3.5,Scala,ASP
+3.3,Scala,Tcl
+3.3,Scala,Racket
+3.0,Scala,Smalltalk
+2.7,Scala,HaXe
+2.6,Scala,F#
+2.6,Scala,FORTRAN
+2.4,Scala,Matlab
+2.4,Scala,Ada
+2.1,Scala,Ioke
+1.9,Scala,XQuery
+1.9,Scala,Nu
+1.9,Scala,Io
+1.9,Scala,Gosu
+1.8,Scala,ColdFusion
+1.8,Scala,Boo
+1.7,Scala,Objective-J
+1.6,Scala,Rebol
+1.4,Scala,Vala
+1.1,Scala,VHDL
+1.1,Scala,Nemerle
+1.1,Scala,Standard ML
+1.1,Scala,Verilog
+1.1,Scala,SuperCollider
+1.1,Scala,AutoHotkey
+1.0,Scala,Parrot
+0.8,Scala,Arduino
+0.7,Scala,Factor
+0.7,Scala,Eiffel
+0.6,Scala,Turing
+0.6,Scala,Puppet
+0.5,Scala,Modelica
+0.5,Scala,Nimrod
+0.4,Scala,Dylan
+0.4,Scala,ooc
+0.3,Scala,Mirah
+0.2,Scala,Arc
+0.2,Scala,Opa
+0.2,Scala,Fancy
+0.1,Scala,Pure Data
+0.1,Scala,Self
+0.1,Scala,Fantom
+80.3,Scheme,Shell
+71.5,Scheme,Python
+70.7,Scheme,C
+68.8,Scheme,JavaScript
+57.3,Scheme,Ruby
+55.0,Scheme,Perl
+53.5,Scheme,C++
+41.4,Scheme,Java
+39.2,Scheme,Emacs Lisp
+36.5,Scheme,PHP
+31.3,Scheme,VimL
+28.8,Scheme,Objective-C
+25.5,Scheme,Assembly
+18.9,Scheme,Haskell
+18.4,Scheme,Common Lisp
+17.6,Scheme,C#
+16.6,Scheme,Lua
+16.6,Scheme,D
+15.7,Scheme,Tcl
+15.5,Scheme,CoffeeScript
+14.6,Scheme,R
+13.7,Scheme,Prolog
+13.7,Scheme,Clojure
+11.5,Scheme,Rust
+10.6,Scheme,Erlang
+10.5,Scheme,Scala
+10.2,Scheme,FORTRAN
+10.2,Scheme,OCaml
+9.5,Scheme,Delphi
+8.7,Scheme,Visual Basic
+7.0,Scheme,ActionScript
+6.6,Scheme,ASP
+6.2,Scheme,Racket
+5.9,Scheme,Matlab
+5.9,Scheme,Groovy
+5.8,Scheme,Smalltalk
+5.0,Scheme,Go
+4.6,Scheme,Ada
+4.5,Scheme,SuperCollider
+3.5,Scheme,Boo
+3.4,Scheme,Objective-J
+3.3,Scheme,Nu
+3.2,Scheme,Vala
+3.0,Scheme,Standard ML
+2.9,Scheme,Eiffel
+2.9,Scheme,Verilog
+2.8,Scheme,VHDL
+2.8,Scheme,HaXe
+2.6,Scheme,ColdFusion
+2.6,Scheme,F#
+2.4,Scheme,Nemerle
+2.3,Scheme,Rebol
+2.0,Scheme,XQuery
+1.7,Scheme,AutoHotkey
+1.7,Scheme,Ioke
+1.6,Scheme,Io
+1.6,Scheme,Arc
+1.5,Scheme,Turing
+1.5,Scheme,Gosu
+1.4,Scheme,Parrot
+1.3,Scheme,Arduino
+1.2,Scheme,Pure Data
+1.1,Scheme,Factor
+1.0,Scheme,Puppet
+1.0,Scheme,Modelica
+0.8,Scheme,Nimrod
+0.7,Scheme,Dylan
+0.6,Scheme,ooc
+0.5,Scheme,Mirah
+0.4,Scheme,Self
+0.4,Scheme,Opa
+0.2,Scheme,Fancy
+0.1,Scheme,Fantom
+97.9,Self,C
+96.9,Self,C++
+95.8,Self,Perl
+94.8,Self,Shell
+83.3,Self,D
+75.0,Self,JavaScript
+64.6,Self,Python
+53.1,Self,Prolog
+51.0,Self,Emacs Lisp
+50.0,Self,Ruby
+49.0,Self,Rust
+45.8,Self,Java
+44.8,Self,PHP
+39.6,Self,Objective-C
+33.3,Self,VimL
+32.3,Self,Assembly
+27.1,Self,Lua
+25.0,Self,Haskell
+25.0,Self,C#
+24.0,Self,Tcl
+21.9,Self,Delphi
+21.9,Self,FORTRAN
+20.8,Self,R
+18.8,Self,Smalltalk
+18.8,Self,SuperCollider
+18.8,Self,OCaml
+18.8,Self,Ada
+16.7,Self,Scheme
+16.7,Self,Go
+15.6,Self,Common Lisp
+14.6,Self,Puppet
+14.6,Self,Erlang
+11.5,Self,Vala
+10.4,Self,Standard ML
+10.4,Self,Visual Basic
+8.3,Self,ASP
+8.3,Self,Nemerle
+7.3,Self,CoffeeScript
+7.3,Self,Turing
+6.2,Self,F#
+6.2,Self,Groovy
+6.2,Self,Rebol
+6.2,Self,Matlab
+6.2,Self,Objective-J
+6.2,Self,Scala
+5.2,Self,Parrot
+5.2,Self,Racket
+4.2,Self,Eiffel
+4.2,Self,ActionScript
+4.2,Self,Io
+4.2,Self,ooc
+3.1,Self,Factor
+3.1,Self,Nu
+3.1,Self,Ioke
+3.1,Self,XQuery
+3.1,Self,HaXe
+3.1,Self,Clojure
+2.1,Self,AutoHotkey
+2.1,Self,Boo
+2.1,Self,Gosu
+2.1,Self,ColdFusion
+2.1,Self,VHDL
+1.0,Self,Nimrod
+1.0,Self,Verilog
+1.0,Self,Arduino
+1.0,Self,Arc
+60.9,Shell,JavaScript
+49.5,Shell,Python
+46.1,Shell,C
+37.4,Shell,Ruby
+31.1,Shell,C++
+30.7,Shell,Java
+30.1,Shell,PHP
+27.8,Shell,Perl
+17.9,Shell,VimL
+15.6,Shell,Objective-C
+10.9,Shell,C#
+9.2,Shell,Emacs Lisp
+8.7,Shell,Assembly
+8.4,Shell,CoffeeScript
+6.0,Shell,ASP
+5.6,Shell,Rust
+5.3,Shell,D
+4.8,Shell,ActionScript
+4.7,Shell,Lua
+4.4,Shell,Prolog
+4.3,Shell,Haskell
+4.1,Shell,Scala
+3.6,Shell,Visual Basic
+3.5,Shell,Groovy
+3.3,Shell,R
+3.2,Shell,Scheme
+3.0,Shell,Erlang
+3.0,Shell,Tcl
+2.8,Shell,Clojure
+2.1,Shell,SuperCollider
+2.0,Shell,Delphi
+2.0,Shell,Common Lisp
+1.7,Shell,Matlab
+1.7,Shell,FORTRAN
+1.5,Shell,OCaml
+1.5,Shell,Go
+1.2,Shell,Smalltalk
+1.2,Shell,Modelica
+1.0,Shell,Ada
+0.9,Shell,Verilog
+0.9,Shell,F#
+0.8,Shell,Puppet
+0.8,Shell,ColdFusion
+0.5,Shell,HaXe
+0.5,Shell,Objective-J
+0.5,Shell,Vala
+0.5,Shell,VHDL
+0.4,Shell,Racket
+0.4,Shell,Boo
+0.3,Shell,Io
+0.3,Shell,Gosu
+0.3,Shell,Arduino
+0.3,Shell,Standard ML
+0.3,Shell,XQuery
+0.3,Shell,Eiffel
+0.3,Shell,Nemerle
+0.2,Shell,Nu
+0.2,Shell,Pure Data
+0.2,Shell,Turing
+0.2,Shell,AutoHotkey
+0.2,Shell,Parrot
+0.1,Shell,Rebol
+0.1,Shell,Ioke
+0.1,Shell,Self
+0.1,Shell,Factor
+0.1,Shell,Arc
+0.1,Shell,ooc
+0.1,Shell,Mirah
+88.8,Smalltalk,Shell
+77.7,Smalltalk,JavaScript
+74.0,Smalltalk,C
+68.6,Smalltalk,Python
+68.1,Smalltalk,Java
+65.9,Smalltalk,C++
+61.4,Smalltalk,Ruby
+60.0,Smalltalk,Perl
+51.0,Smalltalk,Objective-C
+44.9,Smalltalk,PHP
+39.6,Smalltalk,Emacs Lisp
+39.5,Smalltalk,Assembly
+34.8,Smalltalk,C#
+32.1,Smalltalk,VimL
+24.5,Smalltalk,Haskell
+22.0,Smalltalk,ActionScript
+19.2,Smalltalk,Delphi
+18.4,Smalltalk,Rust
+17.5,Smalltalk,Lua
+17.2,Smalltalk,Scheme
+16.6,Smalltalk,Erlang
+16.0,Smalltalk,OCaml
+15.9,Smalltalk,D
+15.5,Smalltalk,Prolog
+15.1,Smalltalk,R
+14.9,Smalltalk,Visual Basic
+14.7,Smalltalk,Scala
+13.4,Smalltalk,Tcl
+12.7,Smalltalk,Common Lisp
+11.1,Smalltalk,Clojure
+10.7,Smalltalk,ASP
+10.4,Smalltalk,Ada
+10.3,Smalltalk,Groovy
+9.9,Smalltalk,FORTRAN
+8.7,Smalltalk,CoffeeScript
+7.6,Smalltalk,Go
+5.8,Smalltalk,Objective-J
+5.7,Smalltalk,HaXe
+5.5,Smalltalk,F#
+5.0,Smalltalk,Boo
+4.9,Smalltalk,Eiffel
+4.8,Smalltalk,SuperCollider
+4.6,Smalltalk,Factor
+4.6,Smalltalk,Matlab
+4.0,Smalltalk,Vala
+3.7,Smalltalk,ColdFusion
+3.5,Smalltalk,VHDL
+3.4,Smalltalk,Verilog
+2.9,Smalltalk,Rebol
+2.5,Smalltalk,Standard ML
+2.2,Smalltalk,XQuery
+2.1,Smalltalk,Dylan
+1.9,Smalltalk,Io
+1.9,Smalltalk,Racket
+1.6,Smalltalk,Nemerle
+1.4,Smalltalk,Self
+1.2,Smalltalk,Modelica
+1.2,Smalltalk,Puppet
+1.2,Smalltalk,Gosu
+1.0,Smalltalk,Turing
+0.9,Smalltalk,Arc
+0.6,Smalltalk,Nu
+0.6,Smalltalk,Ioke
+0.6,Smalltalk,Arduino
+0.6,Smalltalk,AutoHotkey
+0.5,Smalltalk,ooc
+0.5,Smalltalk,Fancy
+0.5,Smalltalk,Parrot
+0.2,Smalltalk,Pure Data
+0.2,Smalltalk,Mirah
+0.2,Smalltalk,Nimrod
+0.2,Smalltalk,Opa
+0.1,Smalltalk,Fantom
+90.6,Standard ML,Shell
+77.9,Standard ML,Python
+77.5,Standard ML,C
+65.5,Standard ML,JavaScript
+62.9,Standard ML,Perl
+56.7,Standard ML,C++
+56.0,Standard ML,Java
+55.7,Standard ML,Ruby
+47.2,Standard ML,Assembly
+45.6,Standard ML,PHP
+44.0,Standard ML,Emacs Lisp
+42.0,Standard ML,Objective-C
+36.5,Standard ML,Scheme
+35.5,Standard ML,VimL
+33.6,Standard ML,Rust
+30.6,Standard ML,OCaml
+27.4,Standard ML,Prolog
+26.1,Standard ML,SuperCollider
+22.5,Standard ML,Scala
+22.1,Standard ML,Delphi
+22.1,Standard ML,Haskell
+21.5,Standard ML,C#
+21.2,Standard ML,Lua
+20.8,Standard ML,R
+20.8,Standard ML,D
+20.2,Standard ML,Tcl
+19.9,Standard ML,Matlab
+19.2,Standard ML,Groovy
+16.6,Standard ML,Rebol
+16.6,Standard ML,XQuery
+16.6,Standard ML,CoffeeScript
+15.6,Standard ML,FORTRAN
+15.6,Standard ML,Gosu
+15.6,Standard ML,Racket
+14.7,Standard ML,Parrot
+14.0,Standard ML,Nemerle
+13.7,Standard ML,Nu
+13.7,Standard ML,AutoHotkey
+13.7,Standard ML,Ioke
+13.0,Standard ML,Common Lisp
+11.7,Standard ML,Turing
+11.4,Standard ML,Arduino
+11.1,Standard ML,Erlang
+10.7,Standard ML,Visual Basic
+10.1,Standard ML,Smalltalk
+10.1,Standard ML,Verilog
+8.8,Standard ML,ASP
+7.8,Standard ML,Nimrod
+6.5,Standard ML,Go
+6.2,Standard ML,Opa
+6.2,Standard ML,ActionScript
+5.5,Standard ML,VHDL
+5.2,Standard ML,Clojure
+5.2,Standard ML,Ada
+4.2,Standard ML,Vala
+4.2,Standard ML,Eiffel
+3.9,Standard ML,F#
+3.3,Standard ML,Self
+2.6,Standard ML,Modelica
+2.6,Standard ML,Puppet
+2.3,Standard ML,HaXe
+2.0,Standard ML,Io
+2.0,Standard ML,Objective-J
+2.0,Standard ML,Boo
+1.3,Standard ML,Arc
+1.3,Standard ML,ColdFusion
+1.0,Standard ML,Factor
+1.0,Standard ML,Dylan
+0.7,Standard ML,ooc
+0.3,Standard ML,Fantom
+0.3,Standard ML,Fancy
+0.3,Standard ML,Mirah
+96.8,SuperCollider,C
+95.1,SuperCollider,Shell
+94.2,SuperCollider,C++
+92.3,SuperCollider,Python
+89.4,SuperCollider,Perl
+86.8,SuperCollider,Objective-C
+84.4,SuperCollider,Assembly
+76.2,SuperCollider,VimL
+74.7,SuperCollider,ASP
+34.9,SuperCollider,Java
+32.4,SuperCollider,JavaScript
+25.8,SuperCollider,Rust
+18.7,SuperCollider,PHP
+18.6,SuperCollider,Ruby
+16.0,SuperCollider,C#
+15.4,SuperCollider,Emacs Lisp
+14.7,SuperCollider,D
+12.1,SuperCollider,Prolog
+10.1,SuperCollider,R
+9.3,SuperCollider,Tcl
+8.3,SuperCollider,Scheme
+7.3,SuperCollider,Delphi
+6.3,SuperCollider,Matlab
+6.0,SuperCollider,OCaml
+5.8,SuperCollider,FORTRAN
+5.6,SuperCollider,Lua
+4.4,SuperCollider,Haskell
+4.0,SuperCollider,Ada
+4.0,SuperCollider,Standard ML
+3.8,SuperCollider,CoffeeScript
+3.8,SuperCollider,Visual Basic
+3.6,SuperCollider,Nemerle
+3.4,SuperCollider,Groovy
+3.3,SuperCollider,Scala
+3.1,SuperCollider,Pure Data
+3.0,SuperCollider,Common Lisp
+3.0,SuperCollider,Smalltalk
+2.8,SuperCollider,ActionScript
+2.7,SuperCollider,Turing
+2.7,SuperCollider,Verilog
+2.6,SuperCollider,Eiffel
+2.6,SuperCollider,Racket
+2.4,SuperCollider,XQuery
+2.3,SuperCollider,Nu
+2.3,SuperCollider,Gosu
+2.3,SuperCollider,Arduino
+2.3,SuperCollider,Parrot
+2.2,SuperCollider,Rebol
+2.2,SuperCollider,AutoHotkey
+2.2,SuperCollider,Ioke
+2.1,SuperCollider,Erlang
+2.0,SuperCollider,HaXe
+1.9,SuperCollider,Objective-J
+1.7,SuperCollider,Go
+1.3,SuperCollider,Clojure
+1.2,SuperCollider,Vala
+1.2,SuperCollider,Nimrod
+0.9,SuperCollider,Opa
+0.9,SuperCollider,Modelica
+0.9,SuperCollider,VHDL
+0.9,SuperCollider,Self
+0.8,SuperCollider,Boo
+0.8,SuperCollider,F#
+0.6,SuperCollider,Io
+0.5,SuperCollider,Puppet
+0.3,SuperCollider,Arc
+0.2,SuperCollider,Factor
+0.1,SuperCollider,Mirah
+0.1,SuperCollider,Dylan
+0.1,SuperCollider,ColdFusion
+0.1,SuperCollider,ooc
+0.1,SuperCollider,Fantom
+91.6,Tcl,Shell
+89.4,Tcl,C
+80.9,Tcl,Python
+72.4,Tcl,Perl
+70.9,Tcl,C++
+67.6,Tcl,JavaScript
+57.9,Tcl,Java
+56.2,Tcl,Ruby
+46.2,Tcl,Emacs Lisp
+43.2,Tcl,Assembly
+40.4,Tcl,Objective-C
+36.7,Tcl,PHP
+31.1,Tcl,C#
+24.9,Tcl,D
+24.4,Tcl,Prolog
+23.9,Tcl,VimL
+19.6,Tcl,Rust
+19.4,Tcl,Delphi
+19.2,Tcl,Visual Basic
+19.0,Tcl,Scheme
+15.4,Tcl,Erlang
+15.4,Tcl,Lua
+15.0,Tcl,Verilog
+14.7,Tcl,Ada
+14.7,Tcl,ActionScript
+14.7,Tcl,FORTRAN
+14.3,Tcl,R
+10.2,Tcl,Haskell
+9.6,Tcl,CoffeeScript
+8.8,Tcl,OCaml
+8.5,Tcl,Common Lisp
+7.8,Tcl,Matlab
+7.6,Tcl,VHDL
+7.1,Tcl,ASP
+6.6,Tcl,Scala
+6.3,Tcl,Clojure
+6.1,Tcl,SuperCollider
+5.4,Tcl,Smalltalk
+5.3,Tcl,Go
+4.2,Tcl,Groovy
+3.6,Tcl,F#
+3.3,Tcl,Eiffel
+3.1,Tcl,Vala
+2.2,Tcl,HaXe
+2.1,Tcl,Nemerle
+2.1,Tcl,Objective-J
+2.0,Tcl,Standard ML
+1.8,Tcl,Boo
+1.8,Tcl,Racket
+1.5,Tcl,Io
+1.4,Tcl,Turing
+1.2,Tcl,Rebol
+1.2,Tcl,XQuery
+1.2,Tcl,Pure Data
+1.1,Tcl,Puppet
+1.1,Tcl,Modelica
+1.0,Tcl,ColdFusion
+0.9,Tcl,Factor
+0.9,Tcl,Arduino
+0.9,Tcl,AutoHotkey
+0.7,Tcl,Arc
+0.7,Tcl,Nu
+0.7,Tcl,Self
+0.7,Tcl,Parrot
+0.7,Tcl,Gosu
+0.6,Tcl,ooc
+0.5,Tcl,Dylan
+0.5,Tcl,Mirah
+0.4,Tcl,Ioke
+0.2,Tcl,Opa
+0.2,Tcl,Fancy
+0.2,Tcl,Nimrod
+0.1,Tcl,Fantom
+97.0,Turing,Perl
+94.4,Turing,Shell
+87.9,Turing,C
+74.7,Turing,C++
+73.7,Turing,Python
+66.2,Turing,JavaScript
+65.2,Turing,Ruby
+55.6,Turing,Java
+52.5,Turing,Emacs Lisp
+52.5,Turing,Assembly
+44.4,Turing,VimL
+44.4,Turing,Objective-C
+41.9,Turing,PHP
+39.4,Turing,Prolog
+37.4,Turing,Rust
+36.9,Turing,R
+29.3,Turing,C#
+28.3,Turing,Scheme
+27.8,Turing,Parrot
+27.8,Turing,SuperCollider
+26.8,Turing,D
+25.8,Turing,Delphi
+25.8,Turing,OCaml
+23.7,Turing,CoffeeScript
+22.7,Turing,Matlab
+22.2,Turing,Tcl
+21.2,Turing,Nemerle
+20.7,Turing,Erlang
+19.7,Turing,Scala
+19.7,Turing,Groovy
+18.2,Turing,XQuery
+18.2,Turing,Standard ML
+17.7,Turing,Lua
+17.2,Turing,Racket
+16.7,Turing,Arduino
+16.7,Turing,Gosu
+16.2,Turing,AutoHotkey
+16.2,Turing,Rebol
+16.2,Turing,Nu
+16.2,Turing,Ioke
+13.6,Turing,Visual Basic
+12.6,Turing,Haskell
+11.1,Turing,Nimrod
+10.1,Turing,FORTRAN
+10.1,Turing,Ada
+10.1,Turing,Go
+8.6,Turing,ASP
+7.6,Turing,Opa
+7.6,Turing,Objective-J
+6.6,Turing,ActionScript
+6.1,Turing,Modelica
+6.1,Turing,Smalltalk
+5.6,Turing,Clojure
+5.6,Turing,Common Lisp
+5.1,Turing,HaXe
+3.5,Turing,Vala
+3.5,Turing,Self
+2.5,Turing,Eiffel
+2.5,Turing,Io
+2.0,Turing,Arc
+2.0,Turing,Boo
+2.0,Turing,F#
+2.0,Turing,Puppet
+1.5,Turing,Verilog
+1.5,Turing,Pure Data
+1.5,Turing,ooc
+1.0,Turing,VHDL
+0.5,Turing,Fantom
+0.5,Turing,Factor
+0.5,Turing,Dylan
+0.5,Turing,ColdFusion
+80.7,VHDL,C
+72.4,VHDL,Shell
+63.9,VHDL,C++
+61.7,VHDL,Python
+45.5,VHDL,Perl
+44.6,VHDL,Java
+43.3,VHDL,JavaScript
+42.8,VHDL,Assembly
+39.5,VHDL,Tcl
+33.9,VHDL,Ruby
+33.7,VHDL,Objective-C
+32.9,VHDL,PHP
+31.5,VHDL,Verilog
+26.4,VHDL,C#
+23.7,VHDL,D
+23.2,VHDL,VimL
+21.8,VHDL,Lua
+20.3,VHDL,FORTRAN
+19.9,VHDL,Delphi
+17.7,VHDL,Scheme
+17.7,VHDL,R
+17.5,VHDL,Haskell
+17.2,VHDL,Visual Basic
+16.7,VHDL,ASP
+16.4,VHDL,OCaml
+16.2,VHDL,Matlab
+16.2,VHDL,Common Lisp
+15.7,VHDL,Erlang
+15.7,VHDL,Vala
+14.3,VHDL,Prolog
+12.6,VHDL,Groovy
+11.9,VHDL,Emacs Lisp
+11.8,VHDL,Scala
+11.2,VHDL,ActionScript
+10.9,VHDL,Boo
+9.4,VHDL,Clojure
+9.2,VHDL,Rust
+8.9,VHDL,Eiffel
+8.5,VHDL,HaXe
+8.0,VHDL,CoffeeScript
+7.5,VHDL,Smalltalk
+7.0,VHDL,Objective-J
+6.8,VHDL,ColdFusion
+6.8,VHDL,Ada
+5.6,VHDL,Go
+5.6,VHDL,Nu
+4.8,VHDL,F#
+4.3,VHDL,Racket
+3.7,VHDL,Factor
+3.1,VHDL,SuperCollider
+2.9,VHDL,Standard ML
+2.7,VHDL,XQuery
+2.7,VHDL,ooc
+2.6,VHDL,Nemerle
+2.6,VHDL,Rebol
+2.4,VHDL,Dylan
+2.4,VHDL,Ioke
+2.0,VHDL,AutoHotkey
+1.4,VHDL,Arduino
+1.2,VHDL,Nimrod
+1.0,VHDL,Puppet
+1.0,VHDL,Gosu
+0.9,VHDL,Io
+0.7,VHDL,Parrot
+0.3,VHDL,Arc
+0.3,VHDL,Self
+0.3,VHDL,Modelica
+0.3,VHDL,Turing
+0.2,VHDL,Opa
+0.2,VHDL,Pure Data
+89.7,Vala,Shell
+82.6,Vala,C
+76.8,Vala,Python
+59.6,Vala,JavaScript
+59.6,Vala,C++
+56.0,Vala,Perl
+46.5,Vala,Ruby
+45.9,Vala,PHP
+45.9,Vala,Java
+34.9,Vala,C#
+34.9,Vala,Lua
+33.7,Vala,Objective-C
+33.5,Vala,Assembly
+32.9,Vala,D
+30.3,Vala,VimL
+24.6,Vala,R
+24.0,Vala,Scheme
+22.4,Vala,FORTRAN
+22.4,Vala,Common Lisp
+21.6,Vala,Haskell
+21.4,Vala,Delphi
+20.0,Vala,Emacs Lisp
+19.4,Vala,Tcl
+19.2,Vala,Erlang
+19.0,Vala,OCaml
+18.6,Vala,VHDL
+18.0,Vala,Visual Basic
+17.4,Vala,Scala
+16.4,Vala,ASP
+15.6,Vala,Boo
+15.4,Vala,Rust
+15.4,Vala,Groovy
+13.7,Vala,Prolog
+13.5,Vala,ActionScript
+12.1,Vala,Clojure
+11.3,Vala,Go
+10.5,Vala,CoffeeScript
+10.1,Vala,Smalltalk
+9.7,Vala,Matlab
+9.5,Vala,HaXe
+8.7,Vala,ColdFusion
+8.3,Vala,Objective-J
+8.1,Vala,Ada
+7.7,Vala,Nu
+7.3,Vala,Eiffel
+7.1,Vala,F#
+6.1,Vala,Racket
+5.1,Vala,SuperCollider
+4.6,Vala,Factor
+4.0,Vala,Rebol
+3.6,Vala,ooc
+3.4,Vala,XQuery
+3.4,Vala,Nemerle
+3.0,Vala,Ioke
+2.8,Vala,Dylan
+2.8,Vala,Verilog
+2.6,Vala,Standard ML
+2.6,Vala,AutoHotkey
+2.2,Vala,Self
+1.8,Vala,Gosu
+1.6,Vala,Nimrod
+1.4,Vala,Turing
+1.4,Vala,Parrot
+1.4,Vala,Modelica
+1.2,Vala,Io
+0.8,Vala,Puppet
+0.8,Vala,Arduino
+0.6,Vala,Arc
+0.4,Vala,Mirah
+0.2,Vala,Opa
+0.2,Vala,Fantom
+84.1,Verilog,C
+81.8,Verilog,Shell
+69.7,Verilog,C++
+69.1,Verilog,Python
+64.7,Verilog,Perl
+56.7,Verilog,Assembly
+52.7,Verilog,JavaScript
+51.6,Verilog,Java
+46.8,Verilog,Objective-C
+42.8,Verilog,Tcl
+42.7,Verilog,Ruby
+36.6,Verilog,C#
+33.4,Verilog,Emacs Lisp
+31.6,Verilog,D
+29.5,Verilog,Prolog
+28.8,Verilog,Visual Basic
+27.3,Verilog,Delphi
+25.4,Verilog,ActionScript
+24.9,Verilog,Ada
+23.7,Verilog,PHP
+18.5,Verilog,Rust
+17.2,Verilog,VHDL
+15.0,Verilog,VimL
+13.8,Verilog,Haskell
+12.8,Verilog,OCaml
+10.5,Verilog,FORTRAN
+9.9,Verilog,Scheme
+8.3,Verilog,Lua
+7.6,Verilog,Erlang
+7.5,Verilog,Matlab
+6.8,Verilog,ASP
+6.2,Verilog,Scala
+5.3,Verilog,R
+5.0,Verilog,SuperCollider
+4.7,Verilog,Common Lisp
+4.7,Verilog,Go
+4.4,Verilog,Eiffel
+3.9,Verilog,Smalltalk
+3.0,Verilog,CoffeeScript
+2.9,Verilog,Standard ML
+2.4,Verilog,F#
+2.2,Verilog,Groovy
+1.8,Verilog,HaXe
+1.8,Verilog,Clojure
+1.3,Verilog,Vala
+1.2,Verilog,Racket
+1.2,Verilog,Puppet
+1.1,Verilog,ColdFusion
+1.0,Verilog,Objective-J
+0.9,Verilog,XQuery
+0.9,Verilog,Boo
+0.8,Verilog,Arduino
+0.7,Verilog,Nemerle
+0.7,Verilog,Pure Data
+0.5,Verilog,Parrot
+0.4,Verilog,Nu
+0.4,Verilog,Modelica
+0.4,Verilog,Factor
+0.4,Verilog,ooc
+0.3,Verilog,Turing
+0.3,Verilog,Rebol
+0.3,Verilog,Dylan
+0.3,Verilog,Gosu
+0.3,Verilog,Io
+0.3,Verilog,Arc
+0.2,Verilog,AutoHotkey
+0.1,Verilog,Self
+0.1,Verilog,Opa
+0.1,Verilog,Ioke
+0.1,Verilog,Fantom
+78.9,VimL,Shell
+60.7,VimL,JavaScript
+58.8,VimL,Python
+53.5,VimL,Ruby
+48.8,VimL,C
+34.9,VimL,Perl
+31.9,VimL,C++
+26.4,VimL,PHP
+25.4,VimL,Java
+21.1,VimL,Objective-C
+17.3,VimL,Emacs Lisp
+13.5,VimL,Assembly
+13.4,VimL,CoffeeScript
+9.5,VimL,C#
+9.2,VimL,ASP
+9.0,VimL,Haskell
+7.7,VimL,Lua
+7.3,VimL,SuperCollider
+6.4,VimL,Rust
+5.6,VimL,Prolog
+5.5,VimL,Scheme
+5.4,VimL,Visual Basic
+5.1,VimL,D
+4.5,VimL,Erlang
+4.1,VimL,Scala
+3.9,VimL,ActionScript
+3.9,VimL,Clojure
+3.5,VimL,Tcl
+3.4,VimL,R
+2.8,VimL,Common Lisp
+2.7,VimL,OCaml
+2.3,VimL,Go
+2.2,VimL,Groovy
+2.1,VimL,Delphi
+2.1,VimL,FORTRAN
+1.9,VimL,Smalltalk
+1.7,VimL,Matlab
+1.4,VimL,Puppet
+1.3,VimL,Objective-J
+1.0,VimL,Ada
+0.9,VimL,Modelica
+0.9,VimL,HaXe
+0.9,VimL,F#
+0.8,VimL,Io
+0.8,VimL,Racket
+0.8,VimL,Verilog
+0.7,VimL,Vala
+0.6,VimL,VHDL
+0.6,VimL,ColdFusion
+0.6,VimL,AutoHotkey
+0.6,VimL,Boo
+0.5,VimL,Nemerle
+0.5,VimL,Rebol
+0.5,VimL,Standard ML
+0.5,VimL,Parrot
+0.5,VimL,Nu
+0.5,VimL,Arduino
+0.4,VimL,XQuery
+0.4,VimL,Eiffel
+0.4,VimL,Gosu
+0.4,VimL,Turing
+0.3,VimL,Ioke
+0.3,VimL,Factor
+0.2,VimL,ooc
+0.2,VimL,Arc
+0.2,VimL,Pure Data
+0.2,VimL,Self
+0.1,VimL,Nimrod
+0.1,VimL,Mirah
+0.1,VimL,Dylan
+0.1,VimL,Opa
+0.1,VimL,Fancy
+75.5,Visual Basic,Shell
+69.5,Visual Basic,JavaScript
+61.9,Visual Basic,C
+58.5,Visual Basic,Python
+52.2,Visual Basic,C++
+49.9,Visual Basic,Ruby
+47.8,Visual Basic,C#
+46.4,Visual Basic,Perl
+40.4,Visual Basic,Java
+34.0,Visual Basic,PHP
+27.1,Visual Basic,Objective-C
+26.0,Visual Basic,ASP
+25.3,Visual Basic,VimL
+23.5,Visual Basic,Assembly
+21.8,Visual Basic,Emacs Lisp
+17.3,Visual Basic,Rust
+17.1,Visual Basic,D
+16.3,Visual Basic,Delphi
+13.1,Visual Basic,Tcl
+12.9,Visual Basic,Prolog
+12.6,Visual Basic,ActionScript
+12.0,Visual Basic,Lua
+9.2,Visual Basic,Ada
+9.1,Visual Basic,CoffeeScript
+7.8,Visual Basic,Haskell
+7.3,Visual Basic,Scala
+7.2,Visual Basic,Scheme
+6.9,Visual Basic,Verilog
+6.6,Visual Basic,Erlang
+6.3,Visual Basic,Clojure
+6.2,Visual Basic,Common Lisp
+5.9,Visual Basic,R
+5.7,Visual Basic,Groovy
+5.5,Visual Basic,FORTRAN
+5.4,Visual Basic,OCaml
+4.9,Visual Basic,F#
+4.6,Visual Basic,Boo
+4.2,Visual Basic,Smalltalk
+3.8,Visual Basic,Go
+3.1,Visual Basic,Matlab
+2.5,Visual Basic,ColdFusion
+2.3,Visual Basic,VHDL
+2.0,Visual Basic,Vala
+1.9,Visual Basic,Eiffel
+1.8,Visual Basic,HaXe
+1.8,Visual Basic,Objective-J
+1.7,Visual Basic,SuperCollider
+1.5,Visual Basic,Modelica
+1.5,Visual Basic,XQuery
+1.5,Visual Basic,Factor
+1.4,Visual Basic,Racket
+1.4,Visual Basic,Nemerle
+1.3,Visual Basic,Puppet
+1.1,Visual Basic,AutoHotkey
+1.0,Visual Basic,Gosu
+1.0,Visual Basic,Rebol
+1.0,Visual Basic,Nu
+0.8,Visual Basic,Parrot
+0.7,Visual Basic,Standard ML
+0.7,Visual Basic,Dylan
+0.7,Visual Basic,Io
+0.6,Visual Basic,Turing
+0.6,Visual Basic,ooc
+0.5,Visual Basic,Ioke
+0.4,Visual Basic,Arduino
+0.2,Visual Basic,Nimrod
+0.2,Visual Basic,Self
+0.2,Visual Basic,Pure Data
+0.2,Visual Basic,Arc
+0.1,Visual Basic,Mirah
+0.1,Visual Basic,Fancy
+85.5,XQuery,JavaScript
+83.4,XQuery,Shell
+73.7,XQuery,Java
+66.8,XQuery,PHP
+65.9,XQuery,Python
+63.7,XQuery,Ruby
+61.6,XQuery,Perl
+53.8,XQuery,C
+51.4,XQuery,C++
+36.6,XQuery,Objective-C
+34.7,XQuery,Scala
+32.3,XQuery,Prolog
+31.7,XQuery,Assembly
+29.6,XQuery,Groovy
+29.3,XQuery,ActionScript
+29.0,XQuery,CoffeeScript
+28.1,XQuery,VimL
+28.1,XQuery,Emacs Lisp
+26.9,XQuery,Delphi
+26.3,XQuery,C#
+26.3,XQuery,R
+25.4,XQuery,Rust
+23.0,XQuery,Scheme
+22.1,XQuery,OCaml
+19.9,XQuery,Visual Basic
+19.3,XQuery,Ioke
+18.7,XQuery,Racket
+18.7,XQuery,Rebol
+18.1,XQuery,Nu
+17.8,XQuery,Nemerle
+17.5,XQuery,AutoHotkey
+16.0,XQuery,Matlab
+15.4,XQuery,Standard ML
+15.1,XQuery,ASP
+15.1,XQuery,Gosu
+14.8,XQuery,Haskell
+14.8,XQuery,SuperCollider
+14.5,XQuery,Parrot
+14.2,XQuery,D
+13.9,XQuery,Erlang
+13.0,XQuery,Clojure
+11.5,XQuery,Lua
+11.5,XQuery,FORTRAN
+10.9,XQuery,Tcl
+10.9,XQuery,Arduino
+10.9,XQuery,Turing
+10.6,XQuery,Common Lisp
+8.8,XQuery,Nimrod
+8.2,XQuery,Smalltalk
+7.6,XQuery,ColdFusion
+6.9,XQuery,HaXe
+6.9,XQuery,Go
+6.6,XQuery,Objective-J
+6.6,XQuery,Boo
+6.3,XQuery,Ada
+5.1,XQuery,Vala
+4.8,XQuery,VHDL
+4.5,XQuery,Opa
+3.9,XQuery,Factor
+3.6,XQuery,ooc
+3.3,XQuery,F#
+3.0,XQuery,Puppet
+3.0,XQuery,Verilog
+2.1,XQuery,Modelica
+1.8,XQuery,Dylan
+0.9,XQuery,Io
+0.9,XQuery,Eiffel
+0.9,XQuery,Self
+0.6,XQuery,Fancy
+0.6,XQuery,Fantom
+0.3,XQuery,Pure Data
+0.3,XQuery,Arc
+85.3,ooc,Python
+85.3,ooc,Shell
+83.2,ooc,C
+82.1,ooc,Ruby
+80.0,ooc,JavaScript
+70.5,ooc,C++
+57.9,ooc,Java
+55.8,ooc,Perl
+51.6,ooc,PHP
+51.6,ooc,Objective-C
+43.2,ooc,VimL
+41.1,ooc,Lua
+38.9,ooc,Haskell
+36.8,ooc,Common Lisp
+34.7,ooc,Go
+34.7,ooc,C#
+31.6,ooc,Assembly
+30.5,ooc,Erlang
+30.5,ooc,CoffeeScript
+29.5,ooc,Groovy
+28.4,ooc,Visual Basic
+26.3,ooc,D
+25.3,ooc,Scala
+25.3,ooc,Prolog
+25.3,ooc,Scheme
+23.2,ooc,ActionScript
+23.2,ooc,Emacs Lisp
+23.2,ooc,Clojure
+23.2,ooc,FORTRAN
+22.1,ooc,Delphi
+21.1,ooc,OCaml
+20.0,ooc,Racket
+20.0,ooc,R
+18.9,ooc,Vala
+17.9,ooc,Boo
+17.9,ooc,Tcl
+16.8,ooc,VHDL
+16.8,ooc,HaXe
+16.8,ooc,ColdFusion
+16.8,ooc,ASP
+14.7,ooc,Rust
+14.7,ooc,Nu
+12.6,ooc,XQuery
+12.6,ooc,Objective-J
+11.6,ooc,Ioke
+11.6,ooc,Nemerle
+9.5,ooc,AutoHotkey
+8.4,ooc,Io
+7.4,ooc,Factor
+6.3,ooc,Smalltalk
+6.3,ooc,Rebol
+5.3,ooc,Nimrod
+4.2,ooc,Verilog
+4.2,ooc,F#
+4.2,ooc,Eiffel
+4.2,ooc,Puppet
+4.2,ooc,Self
+4.2,ooc,Matlab
+3.2,ooc,Ada
+3.2,ooc,Parrot
+3.2,ooc,Turing
+3.2,ooc,Gosu
+2.1,ooc,Standard ML
+2.1,ooc,SuperCollider
+1.1,ooc,Arc
+1.1,ooc,Arduino
+1.1,ooc,Mirah
