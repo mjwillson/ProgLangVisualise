@@ -31,7 +31,7 @@ By way of (perhaps over-)interpretation, some hubs can be spotted:
 
 Some flaws:
 
-- It's hard to separate the effects of bundling due to the language choices of build tools, frameworks etc in this dataset, from genuinely active programmer community overlap
+- It's hard to separate the effects of bundling due to the language choices of build tools, frameworks etc in this dataset, from genuinely active programmer community overlap. For example note the strong association of CoffeeScript with Ruby, perhaps largely due to Rails generators.
 
 - Language detection may not always be spot on. For example Prolog has a surprisingly strong showing; I suspect it's sometimes confused with Perl (both have .pl extensions). Similarly I wonder if detection of R (.r) and D (.d ?) might be a little over-eager.
 
