@@ -1,3 +1,5 @@
+# Really just a scratch area for bits of ad-hoc data munging script
+
 library(reshape)
 library(MASS)
 library(igraph)
@@ -64,7 +66,7 @@ write.graph(cond_prob_graph, '/Users/matthew/Work/github/cond_prob_graph.graphml
 ew <- E(cor_graph)$weight
 l <- layout.fruchterman.reingold(cor_graph, weights=ew)
 l <- layout.circle(cor_graph)
-# l <- layout.mds()
+# l <- layout.mds(cor_graph)
 # l <- layout.drl(cor_graph, options=list(edge.cut=0.5))
 par(bg=gray(0.2))
 plot(cor_graph, layout = l,
